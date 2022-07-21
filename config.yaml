@@ -1,8 +1,8 @@
-baseurl: mind-benders.github.io
+baseurl: https://mind-benders.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Mind Bender's Blog
 
 languages:
     en:
