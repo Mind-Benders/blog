@@ -1,13 +1,13 @@
 baseurl: https://mind-benders.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 5
+paginate: 7
 title: Mind Bender's Blog
 
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Mind Bender's Blog
         weight: 1
     # zh-cn:
     #     languageName: 中文
@@ -20,7 +20,7 @@ languages:
     #     weight: 3
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: 
 
 # GA Tracking ID
 googleAnalytics:
@@ -45,8 +45,8 @@ params:
     favicon:
 
     footer:
-        since: 2020
-        customText:
+        since: 2022
+        customText: Shaping Future Minds
 
     dateFormat:
         published: Jan 02, 2006
@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Mind Bender's Blog for latest updates in AI/DS/ML Space.
         avatar:
             enabled: true
             local: true
@@ -69,7 +69,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
