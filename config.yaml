@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: mind-benders.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -9,15 +9,15 @@ languages:
         languageName: English
         title: Example Site
         weight: 1
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        weight: 2
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
+    # zh-cn:
+    #     languageName: 中文
+    #     title: 演示站点
+    #     weight: 2
+    # ar:
+    #     languageName: عربي
+    #     languagedirection: rtl
+    #     title: موقع تجريبي
+    #     weight: 3
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -196,13 +196,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/Mind-Benders
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/mbc_tcet
           params:
               icon: brand-twitter
 
