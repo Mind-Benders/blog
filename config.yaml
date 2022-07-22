@@ -9,15 +9,6 @@ languages:
         languageName: English
         title: Mind Bender's Blog
         weight: 1
-    # zh-cn:
-    #     languageName: 中文
-    #     title: 演示站点
-    #     weight: 2
-    # ar:
-    #     languageName: عربي
-    #     languagedirection: rtl
-    #     title: موقع تجريبي
-    #     weight: 3
 
 # Change it to your Disqus shortname before using
 disqusShortname: 
@@ -42,7 +33,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: https://raw.githubusercontent.com/Mind-Benders/hugo-theme-stack/master/assets/img/avatar.png
 
     footer:
         since: 2022
@@ -163,7 +154,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: mbc_tcet
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -176,10 +167,10 @@ params:
 
     colorScheme:
         # Display toggle
-        toggle: true
+        toggle: false
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
@@ -194,32 +185,30 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/Mind-Benders
-          params:
-              icon: brand-github
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com/mbc_tcet
-          params:
-              icon: brand-twitter
 
         - identifier: instagram
           name: Instagram
           url: https://instagram.com/mindbenders_tcet
           params:
               icon: brand-instagram
+
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com/mbc_tcet
+          params:
+              icon: brand-twitter
         
         - identifier: linkedin
           name: LinkedIn
           url: https://www.linkedin.com/company/mind-benders-tcet/
           params:
               icon: brand-linkedin
-        
-        
 
+        - identifier: github
+          name: GitHub
+          url: https://github.com/Mind-Benders
+          params:
+              icon: brand-github
 related:
     includeNewer: true
     threshold: 60
@@ -235,7 +224,7 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
         endLevel: 4
         ordered: true
