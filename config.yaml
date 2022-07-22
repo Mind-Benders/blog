@@ -53,7 +53,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 
         subtitle: Mind Bender's Blog for latest updates in AI/DS/ML Space.
         avatar:
             enabled: true
@@ -205,6 +205,20 @@ menu:
           url: https://twitter.com/mbc_tcet
           params:
               icon: brand-twitter
+
+        - identifier: instagram
+          name: Instagram
+          url: https://instagram.com/mindbenders_tcet
+          params:
+              icon: brand-instagram
+        
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://www.linkedin.com/company/mind-benders-tcet/
+          params:
+              icon: brand-linkedin
+        
+        
 
 related:
     includeNewer: true
