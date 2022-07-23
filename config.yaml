@@ -2,12 +2,12 @@ baseurl: https://mind-benders.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 7
-title: Mind Bender's Blog
+title: Mind Benders
 
 languages:
     en:
         languageName: English
-        title: Mind Bender's Blog
+        title: Mind Benders
         weight: 1
 
 # Change it to your Disqus shortname before using
@@ -45,18 +45,18 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Mind Bender's Blog for latest updates in AI/DS/ML Space.
+        subtitle: Mind Benders Blog for latest updates in AI/DS/ML Space.
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: /avatar.png
 
     article:
         math: false
         toc: true
         readingTime: true
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
@@ -167,10 +167,10 @@ params:
 
     colorScheme:
         # Display toggle
-        toggle: false
+        toggle: true
 
         # Available values: auto, light, dark
-        default: dark
+        default: auto
 
     imageProcessing:
         cover:

@@ -1,7 +1,7 @@
 {
     "name": "Mind Benders",
-    "short_name": "MBC",
-    "theme_color": "#41C1BAFF",
+    "short_name": "Mind Benders",
+    "theme_color": "#365b6d",
     "background_color": "#303030",
     "theme_color": "#00a699",
     "display": "standalone",
@@ -48,6 +48,12 @@
       "src": "icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
+    }
+    {
+      "src": "icons/mask-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable",
     }
   ]
 }
