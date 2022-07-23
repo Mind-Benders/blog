@@ -9,6 +9,7 @@ class Pwa {
             '/manifest.webmanifest',
             '/favicon.ico',
             '/offline/',
+            '/avatar.png',
 
         ];
         this.host = `${self.location.protocol}//${self.location.host}`;
