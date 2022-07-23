@@ -33,7 +33,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: https://raw.githubusercontent.com/Mind-Benders/hugo-theme-stack/master/assets/img/avatar.png
+    favicon: 
 
     footer:
         since: 2022
