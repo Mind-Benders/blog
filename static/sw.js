@@ -2,13 +2,14 @@ class Pwa {
 
     constructor(self) {
         this.scope = self;
-        const Version = new URL(location).searchParams.get("version");
-        this.CACHE_VERSION = Version;
+        this.CACHE_VERSION = 1.1;
         this.BASE_CACHE_FILES = [
             '/',
             '/404.html',
             '/manifest.webmanifest',
             '/favicon.ico',
+            '/offline/',
+
         ];
         this.host = `${self.location.protocol}//${self.location.host}`;
         console.info(`Host: ${this.host}`);
