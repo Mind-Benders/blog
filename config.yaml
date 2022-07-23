@@ -48,7 +48,7 @@ params:
         subtitle: Mind Benders Blog for latest updates in AI/DS/ML Space.
         avatar:
             enabled: true
-            local: true
+            local: false
             src: /avatar.png
 
     article:
@@ -167,10 +167,10 @@ params:
 
     colorScheme:
         # Display toggle
-        toggle: true
+        toggle: false
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
