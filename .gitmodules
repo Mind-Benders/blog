@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-stack"]
 	path = themes/hugo-theme-stack
 	url = https://github.com/Mind-Benders/hugo-theme-stack/
+[submodule "content"]
+	path = content
+	url = https://github.com/Mind-Benders/blog-content/
