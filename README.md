@@ -1,1 +1,1 @@
-Example site modified from https://github.com/gohugoio/hugoBasicExample
+Blog for Mind Benders Club
