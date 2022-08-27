@@ -1,0 +1,24 @@
+<div class="article-list--compact links">
+    {{ range $i, $contributor := .Params.contributors }}
+        <article>
+            <a href="{{ $contributor.url }}" target="_blank" rel="noopener">
+                <div class="article-details">
+                    <h2 class="article-title">
+                        {{- $contributor.name -}}
+                    </h2>
+                    <footer class="article-time">
+                        {{ with $contributor.username }}
+                            {{ . }}
+                        {{ else }}
+                            {{ $contributor.url }}
+                        {{ end }}
+                    </footer>
+                </div>
+        {{ $image :=  resources.Get "img/pr.svg" }}
+                    <div class="article-image">
+                        <img src="{{ $image.RelPermalink }}" loading="lazy">
+                    </div>
+            </a>
+        </article>
+    {{ end }}
+</div>

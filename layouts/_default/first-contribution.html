@@ -1,0 +1,10 @@
+{{ define "body-class" }}template-first-contribution{{ end }}
+{{ define "main" }}
+    <h2 class="article-title" style="text-align: center;">First Contribution</h2>
+
+    {{ if .Params.contributors }}
+        {{ partial "article/components/firstcont" . }}
+    {{ end }}
+
+    {{ partialCached "footer/footer" . }}
+{{ end }}
