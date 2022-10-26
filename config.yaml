@@ -8,6 +8,7 @@ languages:
     en:
         languageName: English
         title: Mind Benders
+        description: Mind Benders Club - TCET's Blog for latest news & events
         weight: 1
 
 # Change it to your Disqus shortname before using
