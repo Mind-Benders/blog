@@ -2,20 +2,21 @@ class Pwa {
 
     constructor(self) {
         this.scope = self;
-        this.CACHE_VERSION = 1.1;
+        this.CACHE_VERSION = 1.2;
         this.BASE_CACHE_FILES = [
-            '/',
-            '/404.html',
+            '/ts/main.js',
+            '/404/',
             '/manifest.webmanifest',
             '/favicon.ico',
             '/offline/',
             '/avatar.png',
+            '/about'
 
         ];
         this.host = `${self.location.protocol}//${self.location.host}`;
         console.info(`Host: ${this.host}`);
         this.OFFLINE_PAGE = '/offline/';
-        this.NOT_FOUND_PAGE = '/404.html';
+        this.NOT_FOUND_PAGE = '/404/';
         this.CACHE_NAME = `content-v${this.CACHE_VERSION}`;
         this.MAX_TTL = 86400;
         this.TTL_EXCEPTIONS = ["jpg", "jpeg", "png", "gif", "mp4"];
