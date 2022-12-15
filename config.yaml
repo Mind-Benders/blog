@@ -34,7 +34,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: 
+    favicon: /favicon.ico
 
     footer:
         since: 2022
@@ -238,3 +238,5 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+enableRobotsTXT: true
