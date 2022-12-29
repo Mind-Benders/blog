@@ -6,7 +6,7 @@ class Pwa {
         this.BASE_CACHE_FILES = [
             '/ts/main.js',
             '/404/',
-            'ts/search.js'
+            'ts/search.js',
             '/manifest.webmanifest',
             '/favicon.ico',
             '/offline/',
