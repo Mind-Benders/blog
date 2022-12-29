@@ -210,6 +210,12 @@ menu:
           url: https://github.com/Mind-Benders
           params:
               icon: brand-github
+
+        - identifier: mastodon
+          name: Mastodon
+          url: https://masto.ai/@mbc_tcet
+          params:
+              icon: brand-mastodon
 related:
     includeNewer: true
     threshold: 60
