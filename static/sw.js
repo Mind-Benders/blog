@@ -2,7 +2,7 @@ class Pwa {
 
     constructor(self) {
         this.scope = self;
-        this.CACHE_VERSION = 1.3;
+        this.CACHE_VERSION = 1.4;
         this.BASE_CACHE_FILES = [
             '/ts/main.js',
             '/404/',
@@ -12,7 +12,6 @@ class Pwa {
             '/offline/',
             '/avatar.png',
             '/about'
-
         ];
         this.host = `${self.location.protocol}//${self.location.host}`;
         console.info(`Host: ${this.host}`);
