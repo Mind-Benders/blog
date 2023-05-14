@@ -34,7 +34,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: favicon.ico
+    favicon: /blog/favicon.ico
 
     footer:
         since: 2022
@@ -49,8 +49,8 @@ params:
         subtitle: Mind Benders Blog for latest updates in AI/DS/ML Space.
         avatar:
             enabled: true
-            local: false
-            src: avatar.png
+            local: true
+            src: img/avatar.png
 
     article:
         math: false
