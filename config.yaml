@@ -1,4 +1,4 @@
-baseurl: https://mind-benders.github.io/
+baseurl: https://mind-benders.github.io/blog/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 7
