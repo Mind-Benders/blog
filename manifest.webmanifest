@@ -5,7 +5,7 @@
     "background_color": "#303030",
     "theme_color": "#00a699",
     "display": "standalone",
-    "start_url": "/",
+    "start_url": "/blog",
     "lang": "en-US",
     "description": "Mind Benders Blog for latest news in DS/ML/AL",
     "icons": [
