@@ -2,14 +2,16 @@ baseurl: https://mind-benders.github.io/blog/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 7
-title: Mind Benders
+title: Mind Benders Club - Blog
 
 languages:
     en:
         languageName: English
-        title: Mind Benders
-        description: Mind Benders Club - TCET's Blog for latest news & events
+        title: Mind Benders Club - Blog
         weight: 1
+        params:
+            description: Mind Benders Club - TCET's Blog for latest news & events announcements.
+
 
 # Change it to your Disqus shortname before using
 disqusShortname: 
