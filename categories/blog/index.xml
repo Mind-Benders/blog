@@ -1,4 +1,122 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/categories/blog/</link><description>Recent content in Blog on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/categories/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - June 2023</title><link>https://mind-benders.github.io/blog/p/tmai-june-2023/</link><pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-june-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-june-2023/Poster.png" alt="Featured image of post This Month in AI - June 2023" />&lt;h2 id="code-optimization-revolutionized-google-deepminds-ai-unleashes-new-speed-boosting-technique-1">Code Optimization Revolutionized: Google DeepMind&amp;rsquo;s AI Unleashes New Speed-Boosting Technique. &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/categories/blog/</link><description>Recent content in Blog on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/categories/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - September 2023</title><link>https://mind-benders.github.io/blog/p/tmai-september-2023/</link><pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-september-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-september-2023/Poster.png" alt="Featured image of post This Month in AI - September 2023" />&lt;h2 id="code-llama-by-meta1">Code Llama by Meta&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Meta, the tech giant formerly known as Facebook, has entered the AI arena with Code Llama. This cutting-edge large language model (LLM) is tailored for coding tasks, capable of generating both code and natural language explanations related to code. With three models available in varying sizes, Code Llama is poised to meet the diverse needs of developers and programmers, making coding more efficient and accessible.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Meta-Logo.png"
+width="2560"
+height="1440"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Meta-Logo_hu1e0207ffeb8b112db7fc3ad6e9e0814c_347650_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Meta-Logo_hu1e0207ffeb8b112db7fc3ad6e9e0814c_347650_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Meta Logo"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="ai2s-dolma-dataset-2">AI2&amp;rsquo;s Dolma Dataset &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>AI2 has made waves by releasing the colossal Dolma dataset, comprising a staggering 3 trillion tokens. What sets Dolma apart is its commitment to transparency. Unlike many other datasets, Dolma provides detailed insights into what information was removed, why it was removed, and how personal data was handled. This transparency underscores the ethical considerations surrounding data acquisition and usage in the AI community.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/dolma.png"
+width="1200"
+height="587"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/dolma_hud3e897f1832fbf98206fc0aa387bed6c_86523_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/dolma_hud3e897f1832fbf98206fc0aa387bed6c_86523_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Dolma"
+class="gallery-image"
+data-flex-grow="204"
+data-flex-basis="490px"
+>
+&lt;/p>
+&lt;h2 id="seamlessm4t-by-meta-3">SeamlessM4T by Meta &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Meta is further extending its AI prowess with the development of SeamlessM4T, a foundational multimodal model for speech translation. A multimodal language model is an advanced artificial intelligence model designed to handle and generate content in multiple modes of communication simultaneously. These modes typically include text, images, and sometimes audio or other sensory data. This powerhouse model can handle an extensive range of text and speech tasks across a staggering 100 languages. SeamlessM4T boasts features such as automatic speech recognition, speech-to-text translation, speech-to-speech translation, text-to-text translation, and text-to-speech translation. This innovation opens up new possibilities for seamless communication and understanding across language barriers.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/SeamlessM4t.png"
+width="649"
+height="423"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/SeamlessM4t_hubd026aba23e37e35a6849ad17fa23a18_220421_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/SeamlessM4t_hubd026aba23e37e35a6849ad17fa23a18_220421_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="SeamlessM4T"
+class="gallery-image"
+data-flex-grow="153"
+data-flex-basis="368px"
+>
+&lt;/p>
+&lt;h2 id="deeplearningai-course-on-finetuning-large-language-models-4">DeepLearning.AI Course on Finetuning Large Language Models &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>In a bid to empower AI professionals, DeepLearning.AI has launched a free course dedicated to &amp;ldquo;Finetuning Large Language Models.&amp;rdquo; This course equips practitioners with the knowledge and skills needed to harness the potential of finetuning on LLMs. From data preparation to training and evaluation, the course covers the intricacies of customizing models, updating neural network weights, and enhancing results through style, form, and new knowledge incorporation.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/deep.ai.png"
+width="512"
+height="512"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/deep.ai_huc083409f63cbb23ab4a6e8875fc357ce_25996_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/deep.ai_huc083409f63cbb23ab4a6e8875fc357ce_25996_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="DeepLearning.AI"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;h2 id="idefics-an-open-reproduction-of-visual-language-models-5">IDEFICS: An Open Reproduction of Visual Language Models &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>IDEFICS emerges as an impressive open-source visual language model with 9 billion and 80 billion parameters, drawing inspiration from DeepMind&amp;rsquo;s Flamingo. This versatile model boasts the ability to describe images, generate narratives, and answer image-related questions. Trained on a diverse range of open datasets, including Wikipedia, Public Multimodal Dataset, LAION, and OBELICS, IDEFICS pushes the boundaries of visual AI.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Idefics.png"
+width="748"
+height="422"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Idefics_hua003d70a5c2781a6af2957252abcd353_754341_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Idefics_hua003d70a5c2781a6af2957252abcd353_754341_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="IDEFICS"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="425px"
+>
+&lt;/p>
+&lt;h2 id="gpt-35-turbo-fine-tuning-6">GPT-3.5 Turbo Fine-Tuning &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>OpenAI has unveiled a significant upgrade to its GPT-3.5 Turbo model by introducing fine-tuning. This enhancement promises improved performance on specific tasks, effectively rivaling the capabilities of the base GPT-4. Early testers have achieved remarkable results, reducing prompt size. Notably, the cost structure for training and usage input/output has been detailed at $0.008, $0.012, and $0.016 per 1K tokens, respectively. This advancement underlines the ever-increasing versatility and adaptability of AI models.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/gpt.png"
+width="838"
+height="489"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/gpt_hu0625ded6681216727fb5529fbebd884b_157286_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/gpt_hu0625ded6681216727fb5529fbebd884b_157286_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="GPT-3.5 Turbo"
+class="gallery-image"
+data-flex-grow="171"
+data-flex-basis="411px"
+>
+&lt;/p>
+&lt;h2 id="bings-market-share-stagnation-7">Bing&amp;rsquo;s Market Share Stagnation &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Despite Microsoft&amp;rsquo;s significant investments in AI-driven features like Bing AI Chat and Bing Image Creator, Bing&amp;rsquo;s market share has remained largely stagnant at approximately 3%. While Microsoft disputes this data, experts question whether the missing interactions will significantly impact the overall landscape. This scenario highlights the challenges and competition in the search engine domain driven by AI.&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://ai.meta.com/blog/code-llama-large-language-model-coding/" target="_blank" rel="noopener"
+>Code Llama by Meta&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://techcrunch.com/2023/08/18/ai2-drops-biggest-open-dataset-yet-for-training-language-models/" target="_blank" rel="noopener"
+>AI2&amp;rsquo;s Dolma Dataset&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://ai.meta.com/blog/seamless-m4t/" target="_blank" rel="noopener"
+>SeamlessM4T by Meta&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://www.deeplearning.ai/short-courses/finetuning-large-language-models/" target="_blank" rel="noopener"
+>DeepLearning.AI Course on Finetuning Large Language Models&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://huggingface.co/blog/idefics" target="_blank" rel="noopener"
+>IDEFICS: An Open Reproduction of Visual Language Models&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates" target="_blank" rel="noopener"
+>GPT-3.5 Turbo Fine-Tuning&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://www.zdnet.com/article/bings-search-market-share-fails-to-budge-despite-ai-push/" target="_blank" rel="noopener"
+>Bing&amp;rsquo;s Market Share Stagnation&lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>This Month in AI - June 2023</title><link>https://mind-benders.github.io/blog/p/tmai-june-2023/</link><pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-june-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-june-2023/Poster.png" alt="Featured image of post This Month in AI - June 2023" />&lt;h2 id="code-optimization-revolutionized-google-deepminds-ai-unleashes-new-speed-boosting-technique-1">Code Optimization Revolutionized: Google DeepMind&amp;rsquo;s AI Unleashes New Speed-Boosting Technique. &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>DeepMind&amp;rsquo;s AlphaDev AI achieves groundbreaking speed improvements in sorting algorithms, surpassing existing methods by up to 70%. Its innovative techniques have been adopted by millions of software developers, marking the first integration of AI-discovered algorithms in language updates. DeepMind&amp;rsquo;s gamified approach, using reinforcement learning, trains AlphaDev to construct faster and correct algorithms. This breakthrough revolutionizes code optimization and sets the stage for further AI-driven innovations in computer science.&lt;/p>
 &lt;h2 id="elevating-the-shopping-experience-with-ai-virtual-try-on-on-google-shopping-2">Elevating the Shopping Experience with AI Virtual Try-On on Google Shopping. &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>
