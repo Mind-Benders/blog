@@ -248,3 +248,4 @@ markup:
         tabWidth: 4
 
 enableRobotsTXT: true
+timeout: 90s 
