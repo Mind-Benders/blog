@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/categories/blog/</link><description>Recent content in Blog on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/categories/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - September 2023</title><link>https://mind-benders.github.io/blog/p/tmai-september-2023/</link><pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-september-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-september-2023/Poster.png" alt="Featured image of post This Month in AI - September 2023" />&lt;h2 id="the-latest-breakthroughs-in-ai-a-look-at-recent-developments">The Latest Breakthroughs in AI: A Look at Recent Developments&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/categories/blog/</link><description>Recent content in Blog on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/categories/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - October 2023</title><link>https://mind-benders.github.io/blog/p/tmai-october-2023/</link><pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-october-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-october-2023/Poster.png" alt="Featured image of post This Month in AI - October 2023" />&lt;h1 id="exciting-ai-developments-october-2023">Exciting AI Developments: October 2023&lt;/h1>
+&lt;p>Artificial intelligence continues to make leaps and bounds, shaping the future in extraordinary ways. October 2023 has been an especially remarkable month for AI, with groundbreaking advancements and innovative solutions emerging from various organizations. In this blog, we&amp;rsquo;ll delve into some of the most noteworthy developments in the world of AI.&lt;/p>
+&lt;h2 id="1chatgpt-the-multifaceted-ai-assistant">1. ChatGPT: The Multifaceted AI Assistant&lt;/h2>
+&lt;p>OpenAI&amp;rsquo;s ChatGPT has undergone some transformative upgrades, making it a more capable AI assistant than ever before. The ability to search the web in real time is a game-changer, allowing users to access the most recent information. Notably, OpenAI has ensured compliance with robots.txt rules and user agent identification to give websites more control. Plus and Enterprise users are already enjoying these enhancements, with expansion plans on the horizon.&lt;/p>
+&lt;p>But that&amp;rsquo;s not all. ChatGPT now possesses the ability to see, hear, and speak. With new voice and image capabilities, users can engage in natural voice conversations and receive relevant responses. Additionally, the image feature enables users to present images to ChatGPT for assistance in interpretation. These additions open up exciting possibilities for interactive and dynamic AI interactions.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/gpt.png"
+width="838"
+height="489"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/gpt_hu0625ded6681216727fb5529fbebd884b_157286_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/gpt_hu0625ded6681216727fb5529fbebd884b_157286_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="ChatGPT"
+class="gallery-image"
+data-flex-grow="171"
+data-flex-basis="411px"
+>
+&lt;/p>
+&lt;h2 id="2-microsofts-athena-a-game-changing-ai-chip">2. Microsoft&amp;rsquo;s Athena: A Game-Changing AI Chip&lt;/h2>
+&lt;p>Microsoft is making waves in the AI hardware arena with the introduction of its own AI chip called Athena. This chip is set to reduce the company&amp;rsquo;s reliance on NVIDIA GPUs and compete head-to-head with NVIDIA&amp;rsquo;s H100 GPU for AI acceleration in data centers. This move showcases Microsoft&amp;rsquo;s commitment to achieving self-sufficiency in AI hardware and driving innovation in the AI space.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/ai_athena.jpg"
+width="480"
+height="273"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/ai_athena_hu6bc9b7178bea947d066092be0eae58de_26459_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/ai_athena_hu6bc9b7178bea947d066092be0eae58de_26459_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Microsoft AI Athena"
+class="gallery-image"
+data-flex-grow="175"
+data-flex-basis="421px"
+>
+&lt;/p>
+&lt;h2 id="3-sturgeon-ai-in-real-time-brain-tumor-diagnosis">3. Sturgeon: AI in Real-Time Brain Tumor Diagnosis&lt;/h2>
+&lt;p>In the field of healthcare, &amp;ldquo;Sturgeon&amp;rdquo; is making waves as an AI model that utilizes nanopore sequencing to swiftly and accurately diagnose brain tumors. This innovation is set to revolutionize medical treatment by mimicking human brain activity and employing algorithms to recognize patterns and provide precise diagnoses within just 40 minutes. This kind of real-time AI application holds tremendous potential for improving patient outcomes and speeding up medical diagnoses.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/sturgeon.png"
+width="2000"
+height="1125"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/sturgeon_hu18721230ca8aaad7b85eb0bbc3118574_2335537_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/sturgeon_hu18721230ca8aaad7b85eb0bbc3118574_2335537_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Sturgeon"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="4-openais-ai-chip-consideration">4. OpenAI&amp;rsquo;s AI Chip Consideration&lt;/h2>
+&lt;p>In a related move, OpenAI is contemplating the development of its own AI chips for ChatGPT. This strategic consideration stems from a global shortage of processors for training AI models. Such a move could help reduce the exorbitant operating costs of ChatGPT, which currently amount to a staggering $700,000 per day. It&amp;rsquo;s worth noting that OpenAI&amp;rsquo;s decision may differ from Microsoft, their partner, who is also working on their own AI chips.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/openai.png"
+width="1600"
+height="900"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/openai_hucdcfdc70cdb1770027b6efab9c4d7d18_32674_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/openai_hucdcfdc70cdb1770027b6efab9c4d7d18_32674_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Openai Logo"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="5-stable-lm-3b-powering-smart-devices-with-ai">5. Stable LM 3B: Powering Smart Devices with AI&lt;/h2>
+&lt;p>Stability AI introduces Stable LM 3B, a high-performing language model designed specifically for smart devices. Boasting 3 billion parameters, this model outperforms state-of-the-art 3B models while significantly reducing operating costs and power consumption. The result is an AI model that enables a broader range of applications on smart devices, PCs, and edge computing, paving the way for enhanced user experiences and improved efficiency.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/stable_ai.jpg"
+width="791"
+height="528"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/stable_ai_hu796acb0837912d438c40ba71edc4a923_30658_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/stable_ai_hu796acb0837912d438c40ba71edc4a923_30658_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Stable LM 3B Logo"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+>
+&lt;/p>
+&lt;h2 id="6-fuyu-8b-a-multimodal-marvel">6. Fuyu-8B: A Multimodal Marvel&lt;/h2>
+&lt;p>Adept has unveiled Fuyu-8B, an impressive open-source vision-language model engineered to comprehend and respond to questions about images, charts, diagrams, and documents. This multimodal AI architecture promises to unlock new horizons in AI-driven image and document analysis, offering a plethora of applications in fields such as healthcare, education, and more.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/adept.jpg"
+width="800"
+height="601"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/adept_hu7c271176ca3bbd22cd0ed7304f3ddc7a_24250_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/adept_hu7c271176ca3bbd22cd0ed7304f3ddc7a_24250_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Adept Logo"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>
+&lt;/p>
+&lt;p>In conclusion, October 2023 has been a momentous month for AI enthusiasts. With advancements in AI hardware, language models, multimodal AI, and real-time medical diagnosis, the landscape of artificial intelligence is evolving at an incredible pace. These developments not only reflect the cutting-edge capabilities of AI but also point to the potential for AI to transform industries and improve the quality of our lives. The future of AI is undoubtedly exciting, and it promises to bring more innovations and discoveries in the months and years to come.&lt;/p>
+&lt;p>[^6] [Adept Fuyu-8B] (&lt;a class="link" href="https://www.adept.ai/blog/fuyu-8b" target="_blank" rel="noopener"
+>https://www.adept.ai/blog/fuyu-8b&lt;/a>)&lt;/p></description></item><item><title>This Month in AI - September 2023</title><link>https://mind-benders.github.io/blog/p/tmai-september-2023/</link><pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-september-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-september-2023/Poster.png" alt="Featured image of post This Month in AI - September 2023" />&lt;h2 id="the-latest-breakthroughs-in-ai-a-look-at-recent-developments">The Latest Breakthroughs in AI: A Look at Recent Developments&lt;/h2>
 &lt;p>In the ever-evolving world of artificial intelligence, groundbreaking innovations are constantly emerging. From speech recognition advancements to music generation and everything in between, the AI landscape is teeming with exciting developments. In this blog, we&amp;rsquo;ll delve into some of the most noteworthy recent achievements in AI technology.&lt;/p>
 &lt;h2 id="1-open-asr-leaderboard-leading-the-way-in-speech-recognition---1">1. Open ASR Leaderboard: Leading the Way in Speech Recognition &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>Hugging Face, a prominent AI platform, has introduced the Open ASR Leaderboard, a platform that ranks and evaluates speech recognition models. The current top performers are NVIDIA FastConformer and OpenAI Whisper, both excelling in English speech recognition. The future promises multilingual evaluation, expanding the reach and capabilities of these remarkable speech-to-text models.&lt;/p>
