@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/post/</link><description>Recent content in Posts on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - Decemberr 2023</title><link>https://mind-benders.github.io/blog/p/tmai-decemberr-2023/</link><pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-decemberr-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/Poster.png" alt="Featured image of post This Month in AI - Decemberr 2023" />&lt;p>As we bid farewell to another month, the AI landscape has witnessed a whirlwind of developments, from breakthroughs in AI capabilities to the announcement of significant partnerships and regulatory milestones. Here&amp;rsquo;s a roundup of the most noteworthy news in the AI world for the past month.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/post/</link><description>Recent content in Posts on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - December 2023</title><link>https://mind-benders.github.io/blog/p/tmai-december-2023/</link><pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-december-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-december-2023/Poster.png" alt="Featured image of post This Month in AI - December 2023" />&lt;p>As we bid farewell to another month, the AI landscape has witnessed a whirlwind of developments, from breakthroughs in AI capabilities to the announcement of significant partnerships and regulatory milestones. Here&amp;rsquo;s a roundup of the most noteworthy news in the AI world for the past month.&lt;/p>
 &lt;h2 id="divergence-attack-raises-privacy-concerns-for-chatgpt-1">Divergence Attack Raises Privacy Concerns for ChatGPT: &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>A recent study sheds light on an unexpected vulnerability in language models, including ChatGPT. Researchers have identified a &amp;ldquo;divergence attack&amp;rdquo; that allows models to recall and regurgitate specific training data, potentially exposing sensitive information like email addresses and phone numbers. Privacy concerns loom as the AI community grapples with the implications of this discovery.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/chat_gpt.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/chat_gpt.png"
 width="288"
 height="175"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/chat_gpt_hub4d0c6e54e0dcfc11cccb481af2c9d96_3987_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/chat_gpt_hub4d0c6e54e0dcfc11cccb481af2c9d96_3987_1024x0_resize_box_3.png 1024w"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/chat_gpt_hub4d0c6e54e0dcfc11cccb481af2c9d96_3987_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/chat_gpt_hub4d0c6e54e0dcfc11cccb481af2c9d96_3987_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 class="gallery-image"
 data-flex-grow="164"
@@ -15,10 +15,10 @@ data-flex-basis="394px"
 &lt;h2 id="openais-gpt-store-launch-postponed-2">OpenAI&amp;rsquo;s GPT Store Launch Postponed: &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>Anticipation for OpenAI&amp;rsquo;s GPT Store will have to wait a bit longer as its launch gets postponed to the next year. The GPT Store aims to be a marketplace for users to share and sell their unique GPT creations, with OpenAI providing compensation based on usage. The delay suggests that OpenAI is diligently fine-tuning the platform for a seamless user experience.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/gpt_store.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/gpt_store.png"
 width="774"
 height="553"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/gpt_store_hu90a94ab1b33f37d1aaeefd6aa092b862_73007_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/gpt_store_hu90a94ab1b33f37d1aaeefd6aa092b862_73007_1024x0_resize_box_3.png 1024w"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/gpt_store_hu90a94ab1b33f37d1aaeefd6aa092b862_73007_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/gpt_store_hu90a94ab1b33f37d1aaeefd6aa092b862_73007_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 class="gallery-image"
 data-flex-grow="139"
@@ -28,10 +28,10 @@ data-flex-basis="335px"
 &lt;h2 id="pika-labs-unleashes-pika-10-ai-video-generator-challenges-tech-giants-3">Pika Labs Unleashes Pika 1.0: AI Video Generator Challenges Tech Giants: &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>Pika Labs makes waves in the AI scene with the release of Pika 1.0, an impressive video generation tool. Boasting advanced features like Text-to-Video and Image-to-Video conversion, Pika 1.0 has garnered attention and financial backing, securing a substantial $55 million in funding.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/pika_lab.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/pika_lab.png"
 width="800"
 height="800"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/pika_lab_hu25e2ab6ed6a5eb6216f3e5f72fb80c57_140590_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/pika_lab_hu25e2ab6ed6a5eb6216f3e5f72fb80c57_140590_1024x0_resize_box_3.png 1024w"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/pika_lab_hu25e2ab6ed6a5eb6216f3e5f72fb80c57_140590_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/pika_lab_hu25e2ab6ed6a5eb6216f3e5f72fb80c57_140590_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 class="gallery-image"
 data-flex-grow="100"
@@ -41,10 +41,10 @@ data-flex-basis="240px"
 &lt;h2 id="ai-alliance-takes-shape-with-ibm-and-meta-collaboration-4">AI Alliance Takes Shape with IBM and Meta Collaboration: &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>In a move to foster collaboration and innovation in the AI space, IBM and Meta have joined forces to launch the AI Alliance. With over 50 founding members and collaborators, the alliance aims to promote AI projects, establish benchmarks, and ensure secure and beneficial AI development. Global AI skills building, research, and public education are among its key goals.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/ibm_meta.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ibm_meta.png"
 width="900"
 height="500"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/ibm_meta_hue2c3640c9f618729839ffee750175a4e_409287_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/ibm_meta_hue2c3640c9f618729839ffee750175a4e_409287_1024x0_resize_box_3.png 1024w"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ibm_meta_hue2c3640c9f618729839ffee750175a4e_409287_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ibm_meta_hue2c3640c9f618729839ffee750175a4e_409287_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 class="gallery-image"
 data-flex-grow="180"
@@ -54,10 +54,10 @@ data-flex-basis="432px"
 &lt;h2 id="elon-musks-xai-seeks-1-billion-in-funding-5">Elon Musk&amp;rsquo;s X.AI Seeks $1 Billion in Funding: &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>Elon Musk&amp;rsquo;s AI startup, X.AI, is making headlines as it files to raise a whopping $1 billion in fresh capital. Operating independently but collaborating with Musk&amp;rsquo;s other ventures like Tesla and SpaceX, X.AI boasts a team of experienced professionals from renowned agencies, with projects like AlphaCode and GPT chatbots under their belt.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/x.ai.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/x.ai.png"
 width="1200"
 height="800"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/x.ai_hud8c2d56d287d5085c40f52971763cd3f_37161_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/x.ai_hud8c2d56d287d5085c40f52971763cd3f_37161_1024x0_resize_box_3.png 1024w"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/x.ai_hud8c2d56d287d5085c40f52971763cd3f_37161_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/x.ai_hud8c2d56d287d5085c40f52971763cd3f_37161_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 class="gallery-image"
 data-flex-grow="150"
@@ -67,10 +67,10 @@ data-flex-basis="360px"
 &lt;h2 id="deepmind-ai-triumphs-over-human-mathematicians--6">DeepMind AI Triumphs Over Human Mathematicians : &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>DeepMind&amp;rsquo;s FunSearch AI achieves a milestone by outperforming human mathematicians in solving an unsolved problem related to combinatorics. Leveraging large language models, FunSearch showcases the power of AI in generating effective solutions and continually improving through testing and feedback.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/deepmind.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/deepmind.png"
 width="1100"
 height="550"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/deepmind_hu310da18f0f9be095c669603440b041be_287434_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/deepmind_hu310da18f0f9be095c669603440b041be_287434_1024x0_resize_box_3.png 1024w"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/deepmind_hu310da18f0f9be095c669603440b041be_287434_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/deepmind_hu310da18f0f9be095c669603440b041be_287434_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 class="gallery-image"
 data-flex-grow="200"
@@ -80,10 +80,10 @@ data-flex-basis="480px"
 &lt;h2 id="axel-springer-and-openai-join-forces-for-ai-in-journalism-7">Axel Springer and OpenAI Join Forces for AI in Journalism: &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>Axel Springer and OpenAI are set to deepen the beneficial use of AI in journalism through a strategic partnership. The collaboration aims to enhance ChatGPT with up-to-date news summaries from leading media outlets, providing transparent links to full articles. This partnership also supports Axel Springer’s AI projects relying on OpenAI’s cutting-edge technology.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/ai_journalism.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ai_journalism.png"
 width="1920"
 height="960"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/ai_journalism_hu3bb54610414006f0f0bd9a0ce047bd6e_474523_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-decemberr-2023/ai_journalism_hu3bb54610414006f0f0bd9a0ce047bd6e_474523_1024x0_resize_box_3.png 1024w"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ai_journalism_hu3bb54610414006f0f0bd9a0ce047bd6e_474523_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ai_journalism_hu3bb54610414006f0f0bd9a0ce047bd6e_474523_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 class="gallery-image"
 data-flex-grow="200"
