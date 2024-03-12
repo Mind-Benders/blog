@@ -1,664 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/post/</link><description>Recent content in Posts on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - January 2024</title><link>https://mind-benders.github.io/blog/p/tmai-january-2024/</link><pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-january-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-january-2024/Poster.png" alt="Featured image of post This Month in AI - January 2024" />&lt;p>In the fast-paced world of technology, January 2024 unfolds with a myriad of groundbreaking developments. From the rise of AI-generated virtual influencers to legal battles shaping the future of journalism, this month&amp;rsquo;s tech news is marked by innovation, controversy, and a glimpse into the transformative power of artificial intelligence.&lt;/p>
-&lt;h2 id="virtual-influencers-redefine-marketing-dynamics-amid-ethical-concerns-1">Virtual Influencers Redefine Marketing Dynamics Amid Ethical Concerns &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>AI-created virtual influencers, epitomized by the pink-haired Aitana Lopez, are reshaping the marketing landscape with controlled branding and predictability.&lt;/li>
-&lt;li>Despite their popularity, concerns about transparency and ethics loom large as they challenge traditional influencer models.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/3_girls.png"
-width="491"
-height="246"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/3_girls_hu20e9360fabbff918dc754486caaed113_326209_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/3_girls_hu20e9360fabbff918dc754486caaed113_326209_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="199"
-data-flex-basis="479px"
->
-&lt;/p>
-&lt;h2 id="the-new-york-times-legal-battle-against-openai-and-microsoft-2">The New York Times&amp;rsquo; Legal Battle Against OpenAI and Microsoft &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>A high-stakes lawsuit unfolds as The New York Times accuses OpenAI and Microsoft of copyright infringement, claiming the unauthorized use of millions of articles.&lt;/li>
-&lt;li>The lawsuit raises crucial questions about the impact of AI models on high-quality journalism, highlighting the tension between innovation and intellectual property protection.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/open_ai_ms.png"
-width="486"
-height="255"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/open_ai_ms_hu0022bdba0a4d40bc4f5b2336c78ecd0c_131078_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/open_ai_ms_hu0022bdba0a4d40bc4f5b2336c78ecd0c_131078_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="190"
-data-flex-basis="457px"
->
-&lt;/p>
-&lt;h2 id="ai-foundation-model-transparency-act-a-paradigm-shift-3">AI Foundation Model Transparency Act: A Paradigm Shift &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>A proposed bill aims to bring transparency to AI development, requiring companies to disclose copyrighted training data and address potential biases.&lt;/li>
-&lt;li>The bill emphasizes red teaming efforts to prevent the spread of inaccurate or harmful information in critical domains, marking a pivotal step in responsible AI development.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_model.png"
-width="494"
-height="278"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_model_hu9e7b3a6494f408897070b8831811e597_50906_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_model_hu9e7b3a6494f408897070b8831811e597_50906_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->
-&lt;/p>
-&lt;h2 id="microsoft-revolutionizes-keyboards-with-dedicated-ai-button-4">Microsoft Revolutionizes Keyboards with Dedicated AI Button &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>In a historic move, Microsoft introduces a significant update to the traditional PC keyboard, featuring a dedicated AI button to activate the Copilot chatbot.&lt;/li>
-&lt;li>This innovation underscores Microsoft&amp;rsquo;s commitment to embedding generative AI technology into their products, heralding a new era in human-computer interaction.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_key.png"
-width="185"
-height="185"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_key_huf4ba559412860f0b8cd14c138b320a98_100012_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_key_huf4ba559412860f0b8cd14c138b320a98_100012_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="100"
-data-flex-basis="240px"
->
-&lt;/p>
-&lt;h2 id="camera-giants-combat-ai-fakes-with-signature-technology-5">Camera Giants Combat AI Fakes with Signature Technology &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>Nikon, Sony, and Canon join forces to develop camera technology embedding tamper-resistant digital signatures in images.&lt;/li>
-&lt;li>This effort aims to distinguish authentic photos from sophisticated fakes, addressing the rising challenge of AI-generated content.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/smart_cam.png"
-width="477"
-height="309"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/smart_cam_hu6f3c9e9692ea0dc2ff0abb74f1c45dfd_357933_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/smart_cam_hu6f3c9e9692ea0dc2ff0abb74f1c45dfd_357933_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="154"
-data-flex-basis="370px"
->
-&lt;/p>
-&lt;h2 id="cristiano-amon-envisions-rapid-integration-of-generative-ai-6">Cristiano Amon Envisions Rapid Integration of Generative AI &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>Qualcomm CEO Cristiano Amon anticipates the rapid integration of generative AI into mobiles, PCs, and cars.&lt;/li>
-&lt;li>Leveraging efficient AI processors, these advancements promise enriched user experiences through real-time AI applications on battery-operated devices.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/phone_ai.png"
-width="503"
-height="283"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/phone_ai_huf9aad05d903a06980b796e4697a1d064_255481_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/phone_ai_huf9aad05d903a06980b796e4697a1d064_255481_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->
-&lt;/p>
-&lt;h2 id="openai-launches-gpt-store-unveiling-diverse-applications-7">OpenAI Launches GPT Store: Unveiling Diverse Applications &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>OpenAI pioneers the GPT Store, showcasing applications ranging from trail recommendations to academic research and coding education.&lt;/li>
-&lt;li>The move highlights the versatile applications of OpenAI&amp;rsquo;s language models across various domains and industries.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/gpt_store.png"
-width="738"
-height="415"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/gpt_store_hu06d688edbe25834123a48cd97cf28421_127401_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/gpt_store_hu06d688edbe25834123a48cd97cf28421_127401_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->
-&lt;/p>
-&lt;h2 id="ai-transforms-battery-technology-a-microsoft-breakthrough8">AI Transforms Battery Technology: A Microsoft Breakthrough&lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>Microsoft achieves a transformative breakthrough in battery technology using AI to screen over 32 million candidates.&lt;/li>
-&lt;li>The resulting new material could potentially reduce lithium requirements by 70%, addressing both economic and ethical concerns and showcasing the real and transformative potential of AI breakthroughs.&lt;/li>
-&lt;/ul>
-&lt;p>In this dynamic tech landscape, January 2024 stands as a month that propels the world into the next frontier of innovation and ethical considerations. In January 2024, AI-generated virtual influencers, exemplified by Aitana Lopez, are reshaping marketing despite ethical concerns. Legal battles, such as The New York Times&amp;rsquo; lawsuit against OpenAI and Microsoft, highlight the tension between AI innovation and intellectual property protection. The proposed AI Foundation Model Transparency Act seeks to bring accountability to AI development. Microsoft&amp;rsquo;s introduction of a dedicated AI button on the PC keyboard signifies a commitment to seamless integration of generative AI into user experiences. Photography giants are combating AI-generated fakes with tamper-resistant digital signatures.&lt;/p>
-&lt;div class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1">
-&lt;p>&lt;a class="link" href="https://arstechnica.com/ai/2024/12/ai-created-virtual-influencers-are-stealing-business-from-humans/" target="_blank" rel="noopener"
->Virtual Influencers Redefine Marketing Dynamics Amid Ethical Concerns &lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:2">
-&lt;p>&lt;a class="link" href="https://www.theverge.com/2024/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement" target="_blank" rel="noopener"
->The New York Times&amp;rsquo; Legal Battle Against OpenAI and Microsoft &lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:3">
-&lt;p>&lt;a class="link" href="https://www.theverge.com/2024/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation" target="_blank" rel="noopener"
->AI Foundation Model Transparency Act: A Paradigm Shift &lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:4">
-&lt;p>&lt;a class="link" href="https://www.euronews.com/next/2024/01/04/microsoft-changes-keyboard-layout-for-the-first-time-in-nearly-three-decades-to-add-ai-but" target="_blank" rel="noopener"
->Microsoft Revolutionizes Keyboards with Dedicated AI Button &lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:5">
-&lt;p>&lt;a class="link" href="https://asia.nikkei.com/Business/Technology/Nikon-Sony-and-Canon-fight-AI-fakes-with-new-camera-tech" target="_blank" rel="noopener"
->Camera Giants Combat AI Fakes with Signature Technology &lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:6">
-&lt;p>&lt;a class="link" href="https://www.ft.com/content/dbc0984b-4801-4aeb-bcab-480704c34161" target="_blank" rel="noopener"
->Cristiano Amon Envisions Rapid Integration of Generative AI &lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:7">
-&lt;p>&lt;a class="link" href="https://openai.com/blog/introducing-the-gpt-store" target="_blank" rel="noopener"
->OpenAI Launches GPT Store: Unveiling Diverse Applications &lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:8">
-&lt;p>&lt;a class="link" href="https://www.independent.co.uk/tech/ai-batteries-material-lithium-microsoft-b2475763.html" target="_blank" rel="noopener"
->AI Transforms Battery Technology: A Microsoft Breakthrough &lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/div></description></item><item><title>This Month in AI - December 2023</title><link>https://mind-benders.github.io/blog/p/tmai-december-2023/</link><pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-december-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-december-2023/Poster.png" alt="Featured image of post This Month in AI - December 2023" />&lt;p>As we bid farewell to another month, the AI landscape has witnessed a whirlwind of developments, from breakthroughs in AI capabilities to the announcement of significant partnerships and regulatory milestones. Here&amp;rsquo;s a roundup of the most noteworthy news in the AI world for the past month.&lt;/p>
-&lt;h2 id="divergence-attack-raises-privacy-concerns-for-chatgpt-1">Divergence Attack Raises Privacy Concerns for ChatGPT: &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>A recent study sheds light on an unexpected vulnerability in language models, including ChatGPT. Researchers have identified a &amp;ldquo;divergence attack&amp;rdquo; that allows models to recall and regurgitate specific training data, potentially exposing sensitive information like email addresses and phone numbers. Privacy concerns loom as the AI community grapples with the implications of this discovery.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/chat_gpt.png"
-width="288"
-height="175"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/chat_gpt_hub4d0c6e54e0dcfc11cccb481af2c9d96_3987_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/chat_gpt_hub4d0c6e54e0dcfc11cccb481af2c9d96_3987_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="164"
-data-flex-basis="394px"
->
-&lt;/p>
-&lt;h2 id="openais-gpt-store-launch-postponed-2">OpenAI&amp;rsquo;s GPT Store Launch Postponed: &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>Anticipation for OpenAI&amp;rsquo;s GPT Store will have to wait a bit longer as its launch gets postponed to the next year. The GPT Store aims to be a marketplace for users to share and sell their unique GPT creations, with OpenAI providing compensation based on usage. The delay suggests that OpenAI is diligently fine-tuning the platform for a seamless user experience.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/gpt_store.png"
-width="774"
-height="553"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/gpt_store_hu90a94ab1b33f37d1aaeefd6aa092b862_73007_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/gpt_store_hu90a94ab1b33f37d1aaeefd6aa092b862_73007_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="139"
-data-flex-basis="335px"
->
-&lt;/p>
-&lt;h2 id="pika-labs-unleashes-pika-10-ai-video-generator-challenges-tech-giants-3">Pika Labs Unleashes Pika 1.0: AI Video Generator Challenges Tech Giants: &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>Pika Labs makes waves in the AI scene with the release of Pika 1.0, an impressive video generation tool. Boasting advanced features like Text-to-Video and Image-to-Video conversion, Pika 1.0 has garnered attention and financial backing, securing a substantial $55 million in funding.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/pika_lab.png"
-width="800"
-height="800"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/pika_lab_hu25e2ab6ed6a5eb6216f3e5f72fb80c57_140590_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/pika_lab_hu25e2ab6ed6a5eb6216f3e5f72fb80c57_140590_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="100"
-data-flex-basis="240px"
->
-&lt;/p>
-&lt;h2 id="ai-alliance-takes-shape-with-ibm-and-meta-collaboration-4">AI Alliance Takes Shape with IBM and Meta Collaboration: &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>In a move to foster collaboration and innovation in the AI space, IBM and Meta have joined forces to launch the AI Alliance. With over 50 founding members and collaborators, the alliance aims to promote AI projects, establish benchmarks, and ensure secure and beneficial AI development. Global AI skills building, research, and public education are among its key goals.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ibm_meta.png"
-width="900"
-height="500"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ibm_meta_hue2c3640c9f618729839ffee750175a4e_409287_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ibm_meta_hue2c3640c9f618729839ffee750175a4e_409287_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="180"
-data-flex-basis="432px"
->
-&lt;/p>
-&lt;h2 id="elon-musks-xai-seeks-1-billion-in-funding-5">Elon Musk&amp;rsquo;s X.AI Seeks $1 Billion in Funding: &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>Elon Musk&amp;rsquo;s AI startup, X.AI, is making headlines as it files to raise a whopping $1 billion in fresh capital. Operating independently but collaborating with Musk&amp;rsquo;s other ventures like Tesla and SpaceX, X.AI boasts a team of experienced professionals from renowned agencies, with projects like AlphaCode and GPT chatbots under their belt.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/x.ai.png"
-width="1200"
-height="800"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/x.ai_hud8c2d56d287d5085c40f52971763cd3f_37161_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/x.ai_hud8c2d56d287d5085c40f52971763cd3f_37161_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="150"
-data-flex-basis="360px"
->
-&lt;/p>
-&lt;h2 id="deepmind-ai-triumphs-over-human-mathematicians--6">DeepMind AI Triumphs Over Human Mathematicians : &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>DeepMind&amp;rsquo;s FunSearch AI achieves a milestone by outperforming human mathematicians in solving an unsolved problem related to combinatorics. Leveraging large language models, FunSearch showcases the power of AI in generating effective solutions and continually improving through testing and feedback.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/deepmind.png"
-width="1100"
-height="550"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/deepmind_hu310da18f0f9be095c669603440b041be_287434_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/deepmind_hu310da18f0f9be095c669603440b041be_287434_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="200"
-data-flex-basis="480px"
->
-&lt;/p>
-&lt;h2 id="axel-springer-and-openai-join-forces-for-ai-in-journalism-7">Axel Springer and OpenAI Join Forces for AI in Journalism: &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>Axel Springer and OpenAI are set to deepen the beneficial use of AI in journalism through a strategic partnership. The collaboration aims to enhance ChatGPT with up-to-date news summaries from leading media outlets, providing transparent links to full articles. This partnership also supports Axel Springer’s AI projects relying on OpenAI’s cutting-edge technology.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ai_journalism.png"
-width="1920"
-height="960"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ai_journalism_hu3bb54610414006f0f0bd9a0ce047bd6e_474523_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ai_journalism_hu3bb54610414006f0f0bd9a0ce047bd6e_474523_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="200"
-data-flex-basis="480px"
->
-&lt;/p>
-&lt;p>&lt;a class="link" href="https://www.axelspringer.com/en/ax-press-release/axel-springer-and-openai-partner-to-deepen-beneficial-use-of-ai-in-journalism" target="_blank" rel="noopener"
->https://www.axelspringer.com/en/ax-press-release/axel-springer-and-openai-partner-to-deepen-beneficial-use-of-ai-in-journalism&lt;/a>&lt;/p>
-&lt;h2 id="europe-takes-the-lead-in-ai-regulation-8">Europe Takes the Lead in AI Regulation: &lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>Europe sets a historic precedent with the introduction of the AI Act, the first comprehensive pact to regulate AI. Addressing concerns of bias, privacy, and undue influence, the legislation covers all AI areas, including surveillance and critical infrastructure, with strict penalties for non-compliance. While some details need clarification, Europe&amp;rsquo;s progress in setting transparency rules for generative AI developers signals a significant step forward.&lt;/p>
-&lt;p>&lt;a class="link" href="https://finance.yahoo.com/news/europe-puts-stake-ground-first-104448975.html" target="_blank" rel="noopener"
->https://finance.yahoo.com/news/europe-puts-stake-ground-first-104448975.html&lt;/a>&lt;/p>
-&lt;p>Conclusion:
-From groundbreaking advancements to regulatory milestones, the AI landscape has experienced a month filled with dynamic developments. As we eagerly await the unfolding of future endeavors, these recent events underscore the ever-evolving nature of artificial intelligence and its far-reaching impact on various facets of our lives.&lt;/p>
-&lt;div class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1">
-&lt;p>&lt;a class="link" href="https://stackdiary.com/chatgpts-training-data-can-be-exposed-via-a-divergence-attack/" target="_blank" rel="noopener"
->chat Gpt &lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:2">
-&lt;p>&lt;a class="link" href="https://www.theverge.com/2023/12/1/23984497/openai-gpt-store-delayed-ai-gpt" target="_blank" rel="noopener"
->GPT Store &lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:3">
-&lt;p>&lt;a class="link" href="https://decrypt.co/207799/pika-ai-video-tool-blasts-out-of-beta" target="_blank" rel="noopener"
->pika labs &lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:4">
-&lt;p>&lt;a class="link" href="https://newsroom.ibm.com/AI-Alliance-Launches-as-an-International-Community-of-Leading-Technology-Developers,-Researchers,-and-Adopters-Collaborating-Together-to-Advance-Open,-Safe,-Responsible-AI" target="_blank" rel="noopener"
->Ibm x Meta &lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:5">
-&lt;p>&lt;a class="link" href="https://www.cnbc.com/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html" target="_blank" rel="noopener"
->X.AI &lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:6">
-&lt;p>&lt;a class="link" href="https://www.nature.com/articles/d41586-023-04043-w" target="_blank" rel="noopener"
->deepmind &lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:7">
-&lt;p>&lt;a class="link" href="https://www.axelspringer.com/en/ax-press-release/axel-springer-and-openai-partner-to-deepen-beneficial-use-of-ai-in-journalism" target="_blank" rel="noopener"
->AI in journalism &lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:8">
-&lt;p>&lt;a class="link" href="https://finance.yahoo.com/news/europe-puts-stake-ground-first-104448975.html" target="_blank" rel="noopener"
->Europe takes lead &lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/div></description></item><item><title>This Month in AI - November 2023</title><link>https://mind-benders.github.io/blog/p/tmai-november-2023/</link><pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-november-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-november-2023/Poster.jpg" alt="Featured image of post This Month in AI - November 2023" />&lt;h1 id="ai-innovations-unveiled-novembers-breakthroughs-and-investments">AI Innovations Unveiled: November&amp;rsquo;s Breakthroughs and Investments&lt;/h1>
-&lt;p>In the dynamic landscape of artificial intelligence, November brought forth a wave of groundbreaking developments and significant investments. Here&amp;rsquo;s a glimpse of the transformative strides made in the AI realm:&lt;/p>
-&lt;h2 id="redpajama-data-v2-1">RedPajama-Data-V2 &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>Explore the largest public training dataset, RedPajama-Data-V2, boasting 30 trillion tokens from 84 CommonCrawl dumps in multiple languages. With pre-computed quality annotations, it sets a new standard for language model research.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/redpajama.png"
-width="1780"
-height="1206"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/redpajama_hu5bf2fb1bf8386484aadfcf6dc3767cf3_1070472_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/redpajama_hu5bf2fb1bf8386484aadfcf6dc3767cf3_1070472_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="147"
-data-flex-basis="354px"
->
-&lt;/p>
-&lt;h2 id="grok-elon-musks-debut-in-ai-chatbots-2">Grok: Elon Musk&amp;rsquo;s Debut in AI Chatbots &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>Elon Musk&amp;rsquo;s xAI introduces Grok, a chatbot available exclusively to X Premium+ subscribers. Harnessing real-time information from the X platform and backed by AI specialists from renowned organizations, Grok marks Musk&amp;rsquo;s foray into the AI chatbot arena.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/grok.webp"
-width="520"
-height="280"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/grok_hu3bcf663f1a87f8453b378be4393b3499_4496_480x0_resize_q75_h2_box_2.webp 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/grok_hu3bcf663f1a87f8453b378be4393b3499_4496_1024x0_resize_q75_h2_box_2.webp 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="185"
-data-flex-basis="445px"
->
-&lt;/p>
-&lt;h2 id="alphafolds-evolution-revolutionizing-biomolecular-research-3">AlphaFold&amp;rsquo;s Evolution: Revolutionizing Biomolecular Research &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>Delve into the next generation of AlphaFold, an advanced AI model reshaping our understanding of biomolecules. Its accurate predictions in the Protein Data Bank hold promise for applications in drug discovery, vaccine development, and environmental initiatives.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/alphafold.png"
-width="2240"
-height="1260"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/alphafold_huece1b874dd8a23c89b69da82a8561b80_1618721_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/alphafold_huece1b874dd8a23c89b69da82a8561b80_1618721_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->
-&lt;/p>
-&lt;h2 id="anthropics-2b-boost-google-joins-the-ai-proxy-war--4">Anthropic&amp;rsquo;s $2B Boost: Google Joins the AI Proxy War &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>Witness the intensifying AI proxy war as Google invests $2 billion in Anthropic, echoing the substantial commitments made by Microsoft and Amazon. The escalating competition among tech giants underscores the strategic importance of the AI industry.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/anthropic.png"
-width="1024"
-height="537"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/anthropic_hu43a2ad8a170a32984ec02c8377efd7cb_24509_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/anthropic_hu43a2ad8a170a32984ec02c8377efd7cb_24509_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="190"
-data-flex-basis="457px"
->
-&lt;/p>
-&lt;h2 id="copilots-github-revolution-ai-empowering-developers-5">Copilot&amp;rsquo;s GitHub Revolution: AI Empowering Developers &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>GitHub integrates AI through Copilot and Copilot Chat, ushering in a new era of software development. Powered by OpenAI&amp;rsquo;s GPT-4 model, Copilot offers code understanding, suggestions, security fixes, and an enhanced developer experience.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/github_copilot.jpg"
-width="1920"
-height="1234"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/github_copilot_hufad68abf6107ffc2ef859ebe1b42b6e2_569814_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/github_copilot_hufad68abf6107ffc2ef859ebe1b42b6e2_569814_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="155"
-data-flex-basis="373px"
->
-&lt;/p>
-&lt;h2 id="nvidia-accelerates-pandas-gpu-powered-performance-6">NVIDIA Accelerates Pandas: GPU-Powered Performance &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>Witness the transformation of the Pandas library as NVIDIA achieves up to 150 times faster performance with GPU acceleration. The cudf.pandas module seamlessly executes operations on GPU or CPU, ensuring efficient synchronization and switching.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/nvidia.png"
-width="1200"
-height="675"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/nvidia_hu03ee53667f88afc51043b83c78bb7f5d_42167_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/nvidia_hu03ee53667f88afc51043b83c78bb7f5d_42167_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->
-&lt;/p>
-&lt;h2 id="neuralinks-surge-thousands-eager-for-brain-chip-implants-7">Neuralink&amp;rsquo;s Surge: Thousands Eager for Brain Chip Implants &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>Elon Musk&amp;rsquo;s Neuralink captures widespread interest as thousands line up for brain chip implants. Approved for human trials, the brain-computer interface aims to empower those with neurological disorders, opening avenues from device control to mind-based communication.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/neural_link.png"
-width="2400"
-height="1200"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/neural_link_hu85352eb599aa8d19bbce27e7ff2031b8_32726_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/neural_link_hu85352eb599aa8d19bbce27e7ff2031b8_32726_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="200"
-data-flex-basis="480px"
->
-&lt;/p>
-&lt;h2 id="stable-video-diffusion-revolutionizing-generative-video-8">Stable Video Diffusion: Revolutionizing Generative Video &lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>&lt;/h2>
-&lt;ul>
-&lt;li>Stability AI introduces Stable Video Diffusion, a potent foundation model for generative video. Publicly accessible on GitHub and Hugging Face, this model has the potential to generate customizable frames at varying frame rates, shaping the future of AI-driven video generation.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/stable_video.png"
-width="1716"
-height="965"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/stable_video_hu6006e5b17d9d8b33cd80f675764a8930_470198_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/stable_video_hu6006e5b17d9d8b33cd80f675764a8930_470198_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->
-&lt;/p>
-&lt;p>November emerges as a pivotal month, marking significant strides in AI research, industry investments, and the unveiling of cutting-edge technologies.&lt;/p>
-&lt;div class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1">
-&lt;p>&lt;a class="link" href="https://together.ai/blog/redpajama-data-v2" target="_blank" rel="noopener"
->Red Pajama&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:2">
-&lt;p>&lt;a class="link" href="https://mashable.com/article/elon-musk-x-ai-update" target="_blank" rel="noopener"
->Explore Grok&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:3">
-&lt;p>&lt;a class="link" href="https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/" target="_blank" rel="noopener"
->Alphafold &lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:4">
-&lt;p>&lt;a class="link" href="https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/" target="_blank" rel="noopener"
->Read about Google&amp;rsquo;s investment&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:5">
-&lt;p>&lt;a class="link" href="https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/" target="_blank" rel="noopener"
->Explore Copilot&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:6">
-&lt;p>&lt;a class="link" href="https://rapids.ai/cudf-pandas/" target="_blank" rel="noopener"
->Discover the enhancements in Nvidia&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:7">
-&lt;p>&lt;a class="link" href="https://www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11" target="_blank" rel="noopener"
->Read about Neuralink&lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:8">
-&lt;p>&lt;a class="link" href="https://stability.ai/news/stable-video-diffusion-open-ai-video-model" target="_blank" rel="noopener"
->Explore Stable Video Diffusion&lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/div></description></item><item><title>This Month in AI - October 2023</title><link>https://mind-benders.github.io/blog/p/tmai-october-2023/</link><pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-october-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-october-2023/Poster.png" alt="Featured image of post This Month in AI - October 2023" />&lt;h1 id="exciting-ai-developments-october-2023">Exciting AI Developments: October 2023&lt;/h1>
-&lt;p>Artificial intelligence continues to make leaps and bounds, shaping the future in extraordinary ways. October 2023 has been an especially remarkable month for AI, with groundbreaking advancements and innovative solutions emerging from various organizations. In this blog, we&amp;rsquo;ll delve into some of the most noteworthy developments in the world of AI.&lt;/p>
-&lt;h2 id="chatgpt-the-multifaceted-ai-assistant">ChatGPT: The Multifaceted AI Assistant&lt;/h2>
-&lt;p>OpenAI&amp;rsquo;s ChatGPT has undergone some transformative upgrades, making it a more capable AI assistant than ever before. The ability to search the web in real time is a game-changer, allowing users to access the most recent information. Notably, OpenAI has ensured compliance with robots.txt rules and user agent identification to give websites more control. Plus and Enterprise users are already enjoying these enhancements, with expansion plans on the horizon.&lt;/p>
-&lt;p>But that&amp;rsquo;s not all. ChatGPT now possesses the ability to see, hear, and speak. With new voice and image capabilities, users can engage in natural voice conversations and receive relevant responses. Additionally, the image feature enables users to present images to ChatGPT for assistance in interpretation. These additions open up exciting possibilities for interactive and dynamic AI interactions.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/gpt.png"
-width="838"
-height="489"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/gpt_hu0625ded6681216727fb5529fbebd884b_157286_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/gpt_hu0625ded6681216727fb5529fbebd884b_157286_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-alt="ChatGPT"
-class="gallery-image"
-data-flex-grow="171"
-data-flex-basis="411px"
->
-&lt;/p>
-&lt;h2 id="microsofts-athena-a-game-changing-ai-chip">Microsoft&amp;rsquo;s Athena: A Game-Changing AI Chip&lt;/h2>
-&lt;p>Microsoft is making waves in the AI hardware arena with the introduction of its own AI chip called Athena. This chip is set to reduce the company&amp;rsquo;s reliance on NVIDIA GPUs and compete head-to-head with NVIDIA&amp;rsquo;s H100 GPU for AI acceleration in data centers. This move showcases Microsoft&amp;rsquo;s commitment to achieving self-sufficiency in AI hardware and driving innovation in the AI space.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/ai_athena.jpg"
-width="480"
-height="273"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/ai_athena_hu6bc9b7178bea947d066092be0eae58de_26459_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/ai_athena_hu6bc9b7178bea947d066092be0eae58de_26459_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Microsoft AI Athena"
-class="gallery-image"
-data-flex-grow="175"
-data-flex-basis="421px"
->
-&lt;/p>
-&lt;h2 id="sturgeon-ai-in-real-time-brain-tumor-diagnosis">Sturgeon: AI in Real-Time Brain Tumor Diagnosis&lt;/h2>
-&lt;p>In the field of healthcare, &amp;ldquo;Sturgeon&amp;rdquo; is making waves as an AI model that utilizes nanopore sequencing to swiftly and accurately diagnose brain tumors. This innovation is set to revolutionize medical treatment by mimicking human brain activity and employing algorithms to recognize patterns and provide precise diagnoses within just 40 minutes. This kind of real-time AI application holds tremendous potential for improving patient outcomes and speeding up medical diagnoses.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/sturgeon.png"
-width="2000"
-height="1125"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/sturgeon_hu18721230ca8aaad7b85eb0bbc3118574_2335537_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/sturgeon_hu18721230ca8aaad7b85eb0bbc3118574_2335537_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-alt="Sturgeon"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->
-&lt;/p>
-&lt;h2 id="openais-ai-chip-consideration">OpenAI&amp;rsquo;s AI Chip Consideration&lt;/h2>
-&lt;p>In a related move, OpenAI is contemplating the development of its own AI chips for ChatGPT. This strategic consideration stems from a global shortage of processors for training AI models. Such a move could help reduce the exorbitant operating costs of ChatGPT, which currently amount to a staggering $700,000 per day. It&amp;rsquo;s worth noting that OpenAI&amp;rsquo;s decision may differ from Microsoft, their partner, who is also working on their own AI chips.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/openai.png"
-width="1600"
-height="900"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/openai_hucdcfdc70cdb1770027b6efab9c4d7d18_32674_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/openai_hucdcfdc70cdb1770027b6efab9c4d7d18_32674_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-alt="Openai Logo"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->
-&lt;/p>
-&lt;h2 id="stable-lm-3b-powering-smart-devices-with-ai">Stable LM 3B: Powering Smart Devices with AI&lt;/h2>
-&lt;p>Stability AI introduces Stable LM 3B, a high-performing language model designed specifically for smart devices. Boasting 3 billion parameters, this model outperforms state-of-the-art 3B models while significantly reducing operating costs and power consumption. The result is an AI model that enables a broader range of applications on smart devices, PCs, and edge computing, paving the way for enhanced user experiences and improved efficiency.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/stable_ai.jpg"
-width="791"
-height="528"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/stable_ai_hu796acb0837912d438c40ba71edc4a923_30658_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/stable_ai_hu796acb0837912d438c40ba71edc4a923_30658_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Stable LM 3B Logo"
-class="gallery-image"
-data-flex-grow="149"
-data-flex-basis="359px"
->
-&lt;/p>
-&lt;h2 id="fuyu-8b-a-multimodal-marvel">Fuyu-8B: A Multimodal Marvel&lt;/h2>
-&lt;p>Adept has unveiled Fuyu-8B, an impressive open-source vision-language model engineered to comprehend and respond to questions about images, charts, diagrams, and documents. This multimodal AI architecture promises to unlock new horizons in AI-driven image and document analysis, offering a plethora of applications in fields such as healthcare, education, and more.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/adept.jpg"
-width="800"
-height="601"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/adept_hu7c271176ca3bbd22cd0ed7304f3ddc7a_24250_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/adept_hu7c271176ca3bbd22cd0ed7304f3ddc7a_24250_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Adept Logo"
-class="gallery-image"
-data-flex-grow="133"
-data-flex-basis="319px"
->
-&lt;/p>
-&lt;p>In conclusion, October 2023 has been a momentous month for AI enthusiasts. With advancements in AI hardware, language models, multimodal AI, and real-time medical diagnosis, the landscape of artificial intelligence is evolving at an incredible pace. These developments not only reflect the cutting-edge capabilities of AI but also point to the potential for AI to transform industries and improve the quality of our lives. The future of AI is undoubtedly exciting, and it promises to bring more innovations and discoveries in the months and years to come.&lt;/p>
-&lt;p>[^6] [Adept Fuyu-8B] (&lt;a class="link" href="https://www.adept.ai/blog/fuyu-8b" target="_blank" rel="noopener"
->https://www.adept.ai/blog/fuyu-8b&lt;/a>)&lt;/p></description></item><item><title>This Month in AI - September 2023</title><link>https://mind-benders.github.io/blog/p/tmai-september-2023/</link><pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-september-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-september-2023/Poster.png" alt="Featured image of post This Month in AI - September 2023" />&lt;h2 id="the-latest-breakthroughs-in-ai-a-look-at-recent-developments">The Latest Breakthroughs in AI: A Look at Recent Developments&lt;/h2>
-&lt;p>In the ever-evolving world of artificial intelligence, groundbreaking innovations are constantly emerging. From speech recognition advancements to music generation and everything in between, the AI landscape is teeming with exciting developments. In this blog, we&amp;rsquo;ll delve into some of the most noteworthy recent achievements in AI technology.&lt;/p>
-&lt;h2 id="open-asr-leaderboard-leading-the-way-in-speech-recognition---1">Open ASR Leaderboard: Leading the Way in Speech Recognition &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>Hugging Face, a prominent AI platform, has introduced the Open ASR Leaderboard, a platform that ranks and evaluates speech recognition models. The current top performers are NVIDIA FastConformer and OpenAI Whisper, both excelling in English speech recognition. The future promises multilingual evaluation, expanding the reach and capabilities of these remarkable speech-to-text models.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/open-asr-leaderboard.png"
-width="1200"
-height="648"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/open-asr-leaderboard_huf3030cd8da0ad2fd54fb9ef4c6648cc4_25825_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/open-asr-leaderboard_huf3030cd8da0ad2fd54fb9ef4c6648cc4_25825_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-alt="Open ASR Leaderboard"
-class="gallery-image"
-data-flex-grow="185"
-data-flex-basis="444px"
->
-&lt;/p>
-&lt;h2 id="stable-audio-crafting-music-with-ai-precision----2">Stable Audio: Crafting Music with AI Precision &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>Stability AI, a London-based startup known for its AI model Stable Diffusion, has unveiled Stable Audio. This cutting-edge AI model empowers users to generate high-quality commercial music with unprecedented control over synthesized audio. With this tool, music creation takes on a new dimension, offering artists and producers innovative ways to express their creativity.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/stable-audio.png"
-width="560"
-height="520"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/stable-audio_hu9cfbe96cda53446b3f5c4910fadab09d_180743_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/stable-audio_hu9cfbe96cda53446b3f5c4910fadab09d_180743_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-alt="Stable Audio"
-class="gallery-image"
-data-flex-grow="107"
-data-flex-basis="258px"
->
-&lt;/p>
-&lt;h2 id="googles-gemini-the-next-generation-of-language-models---3">Google&amp;rsquo;s Gemini: The Next Generation of Language Models &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>The Information has reported that Google is on the verge of launching Gemini, an advanced language model poised to rival GPT-4. Currently in early testing, Gemini boasts a wide array of functionalities, including chatbots, text summarization, and code writing assistance. This development promises to elevate the capabilities of AI-powered language models to new heights.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/google-intro-gemini.jpg"
-width="1280"
-height="720"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/google-intro-gemini_huc7561527f8917048aeba422cd8d9f570_137974_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/google-intro-gemini_huc7561527f8917048aeba422cd8d9f570_137974_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Google Introducing Gemini"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->
-&lt;/p>
-&lt;h2 id="adobes-firefly-generative-ai-in-creative-cloud----4">Adobe&amp;rsquo;s Firefly: Generative AI in Creative Cloud &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>Adobe has taken a bold step by releasing generative AI models within its Creative Cloud ecosystem, complete with a standalone web app named Firefly. The unique &amp;ldquo;generative credits&amp;rdquo; system allows users to control their interactions with Firefly&amp;rsquo;s AI models, with each click on &amp;lsquo;generate&amp;rsquo; utilizing one credit. This innovation opens up fresh avenues for creative professionals to explore their artistic potential.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/adobee-firefly.jpg"
-width="1200"
-height="672"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/adobee-firefly_hu2d9e69ac709735271fd47933b8a77ab3_67868_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/adobee-firefly_hu2d9e69ac709735271fd47933b8a77ab3_67868_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Adobe Firefly"
-class="gallery-image"
-data-flex-grow="178"
-data-flex-basis="428px"
->
-&lt;/p>
-&lt;h2 id="roblox-assistant-elevating-virtual-world-creation----5">Roblox Assistant: Elevating Virtual World Creation &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>The 2023 Roblox Developers Conference introduced the Roblox Assistant, a conversational AI tool designed to assist creators in crafting immersive virtual experiences. With this tool, creators can easily generate virtual environments and implement basic gameplay behaviours, promising a more accessible and streamlined development process.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/roblox-assistant.jpg"
-width="1543"
-height="1080"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/roblox-assistant_hu333cc375b50ab0993f4c92ec6f40cebc_293630_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/roblox-assistant_hu333cc375b50ab0993f4c92ec6f40cebc_293630_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="roblox"
-class="gallery-image"
-data-flex-grow="142"
-data-flex-basis="342px"
->
-&lt;/p>
-&lt;h2 id="microsoft-copilot-your-personal-ai-companion---6">Microsoft Copilot: Your Personal AI Companion &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>Microsoft Copilot is set to become an everyday AI companion, offering tailored assistance based on workplace data and web context. This AI powerhouse enhances productivity and creativity across Windows 11, Microsoft 365, Edge, and Bing, all while prioritizing user privacy. Bing and Edge users will also enjoy personalized experiences powered by OpenAI&amp;rsquo;s DALL.E 3 model, including AI-driven shopping and image creation.&lt;/p>
-&lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Microsoft-Copilot.jpg"
-width="1000"
-height="520"
-srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Microsoft-Copilot_hud639337710ddd86d9c7cb82a6c336a1c_47279_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Microsoft-Copilot_hud639337710ddd86d9c7cb82a6c336a1c_47279_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Microsoft Copilot"
-class="gallery-image"
-data-flex-grow="192"
-data-flex-basis="461px"
->
-&lt;/p>
-&lt;h2 id="bard-extensions-bridging-the-gap-with-google-services----7">Bard Extensions: Bridging the Gap with Google Services &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/h2>
-&lt;p>The newly introduced Bard Extensions feature provides AI professionals with seamless integration with various Google tools. This enables efficient collaboration by fetching and displaying relevant information from Gmail, Docs, Drive, Maps, YouTube, Flights, and hotels, regardless of its scattered nature.&lt;/p>
-&lt;p>In conclusion, the world of AI continues to push boundaries and deliver game-changing innovations. From speech recognition advancements to music generation, language models, creative tools, virtual world building, and personal AI companions, these developments are shaping the future of AI technology and its impact on our daily lives. Keep an eye on these breakthroughs as they usher in a new era of possibilities.&lt;/p>
-&lt;div class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1">
-&lt;p>&lt;a class="link" href="https://huggingface.co/spaces/hf-audio/open_asr_leaderboard" target="_blank" rel="noopener"
->https://huggingface.co/spaces/hf-audio/open_asr_leaderboard&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:2">
-&lt;p>&lt;a class="link" href="https://www.stableaudio.com/" target="_blank" rel="noopener"
->https://www.stableaudio.com/&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:3">
-&lt;p>&lt;a class="link" href="https://www.reuters.com/technology/google-nears-release-ai-software-gemini-information-2023-09-15/" target="_blank" rel="noopener"
->https://www.reuters.com/technology/google-nears-release-ai-software-gemini-information-2023-09-15/&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:4">
-&lt;p>&lt;a class="link" href="https://techcrunch.com/2023/09/13/adobes-firefly-generative-ai-models-are-now-generally-available-get-pricing-plans/" target="_blank" rel="noopener"
->https://techcrunch.com/2023/09/13/adobes-firefly-generative-ai-models-are-now-generally-available-get-pricing-plans/&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:5">
-&lt;p>&lt;a class="link" href="https://www.theverge.com/2023/9/8/23863943/roblox-ai-chatbot-assistant-ai-rdc-2023" target="_blank" rel="noopener"
->https://www.theverge.com/2023/9/8/23863943/roblox-ai-chatbot-assistant-ai-rdc-2023&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:6">
-&lt;p>&lt;a class="link" href="https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/" target="_blank" rel="noopener"
->https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:7">
-&lt;p>&lt;a class="link" href="https://blog.google/products/bard/google-bard-new-features-update-sept-2023/" target="_blank" rel="noopener"
->https://blog.google/products/bard/google-bard-new-features-update-sept-2023/&lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/div></description></item><item><title>This Month in AI - August 2023</title><link>https://mind-benders.github.io/blog/p/tmai-august-2023/</link><pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-august-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-august-2023/Poster.png" alt="Featured image of post This Month in AI - August 2023" />&lt;h2 id="code-llama-by-meta1">Code Llama by Meta&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/post/</link><description>Recent content in Posts on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - August 2023</title><link>https://mind-benders.github.io/blog/p/tmai-august-2023/</link><pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-august-2023/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-august-2023/Poster.png" alt="Featured image of post This Month in AI - August 2023" />&lt;h2 id="code-llama-by-meta1">Code Llama by Meta&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
 &lt;p>Meta, the tech giant formerly known as Facebook, has entered the AI arena with Code Llama. This cutting-edge large language model (LLM) is tailored for coding tasks, capable of generating both code and natural language explanations related to code. With three models available in varying sizes, Code Llama is poised to meet the diverse needs of developers and programmers, making coding more efficient and accessible.&lt;/p>
 &lt;p>
 &lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-august-2023/Meta-Logo.png"
@@ -1841,4 +1181,884 @@ alt="An astronaut riding a horse in a photorealistic style"
 &lt;h2 id="post-event">Post Event&lt;/h2>
 &lt;p>The event was a great success and had 20+ partcipants from the branch.&lt;/p>
 &lt;p>Despite some minor hiccups the event was conducted smoothly with particpants taking home valuable lessons on why they should be using &amp;amp; implementing Git on their projects.&lt;/p>
-&lt;p>More Fun &amp;amp; Interactive events are planned so Stay tuned.&lt;/p></description></item></channel></rss>
+&lt;p>More Fun &amp;amp; Interactive events are planned so Stay tuned.&lt;/p></description></item><item><title>This Month in AI - December 2023</title><link>https://mind-benders.github.io/blog/p/tmai-december-2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-december-2023/</guid><description>&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/Poster.png"
+width="1080"
+height="1080"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/Poster_hu0bcb6cc63b9dd7e52c4adaea3ef9b3d3_551479_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/Poster_hu0bcb6cc63b9dd7e52c4adaea3ef9b3d3_551479_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Poster"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;h2 id="this-month-in-ai---december-2023">This Month in AI - December 2023&lt;/h2>
+&lt;p>As we bid farewell to another month, the AI landscape has witnessed a whirlwind of developments, from breakthroughs in AI capabilities to the announcement of significant partnerships and regulatory milestones. Here&amp;rsquo;s a roundup of the most noteworthy news in the AI world for the past month.&lt;/p>
+&lt;!--truncate-->
+&lt;h2 id="divergence-attack-raises-privacy-concerns-for-chatgpt-1">Divergence Attack Raises Privacy Concerns for ChatGPT: &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>A recent study sheds light on an unexpected vulnerability in language models, including ChatGPT. Researchers have identified a &amp;ldquo;divergence attack&amp;rdquo; that allows models to recall and regurgitate specific training data, potentially exposing sensitive information like email addresses and phone numbers. Privacy concerns loom as the AI community grapples with the implications of this discovery.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/chat_gpt.png"
+width="288"
+height="175"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/chat_gpt_hub4d0c6e54e0dcfc11cccb481af2c9d96_3987_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/chat_gpt_hub4d0c6e54e0dcfc11cccb481af2c9d96_3987_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="164"
+data-flex-basis="394px"
+>
+&lt;/p>
+&lt;h2 id="openais-gpt-store-launch-postponed-2">OpenAI&amp;rsquo;s GPT Store Launch Postponed: &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Anticipation for OpenAI&amp;rsquo;s GPT Store will have to wait a bit longer as its launch gets postponed to the next year. The GPT Store aims to be a marketplace for users to share and sell their unique GPT creations, with OpenAI providing compensation based on usage. The delay suggests that OpenAI is diligently fine-tuning the platform for a seamless user experience.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/gpt_store.png"
+width="774"
+height="553"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/gpt_store_hu90a94ab1b33f37d1aaeefd6aa092b862_73007_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/gpt_store_hu90a94ab1b33f37d1aaeefd6aa092b862_73007_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="139"
+data-flex-basis="335px"
+>
+&lt;/p>
+&lt;h2 id="pika-labs-unleashes-pika-10-ai-video-generator-challenges-tech-giants-3">Pika Labs Unleashes Pika 1.0: AI Video Generator Challenges Tech Giants: &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Pika Labs makes waves in the AI scene with the release of Pika 1.0, an impressive video generation tool. Boasting advanced features like Text-to-Video and Image-to-Video conversion, Pika 1.0 has garnered attention and financial backing, securing a substantial $55 million in funding.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/pika_lab.png"
+width="800"
+height="800"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/pika_lab_hu25e2ab6ed6a5eb6216f3e5f72fb80c57_140590_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/pika_lab_hu25e2ab6ed6a5eb6216f3e5f72fb80c57_140590_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;h2 id="ai-alliance-takes-shape-with-ibm-and-meta-collaboration-4">AI Alliance Takes Shape with IBM and Meta Collaboration: &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>In a move to foster collaboration and innovation in the AI space, IBM and Meta have joined forces to launch the AI Alliance. With over 50 founding members and collaborators, the alliance aims to promote AI projects, establish benchmarks, and ensure secure and beneficial AI development. Global AI skills building, research, and public education are among its key goals.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ibm_meta.png"
+width="900"
+height="500"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ibm_meta_hue2c3640c9f618729839ffee750175a4e_409287_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ibm_meta_hue2c3640c9f618729839ffee750175a4e_409287_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="180"
+data-flex-basis="432px"
+>
+&lt;/p>
+&lt;h2 id="elon-musks-xai-seeks-1-billion-in-funding-5">Elon Musk&amp;rsquo;s X.AI Seeks $1 Billion in Funding: &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Elon Musk&amp;rsquo;s AI startup, X.AI, is making headlines as it files to raise a whopping $1 billion in fresh capital. Operating independently but collaborating with Musk&amp;rsquo;s other ventures like Tesla and SpaceX, X.AI boasts a team of experienced professionals from renowned agencies, with projects like AlphaCode and GPT chatbots under their belt.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/x.ai.png"
+width="1200"
+height="800"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/x.ai_hud8c2d56d287d5085c40f52971763cd3f_37161_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/x.ai_hud8c2d56d287d5085c40f52971763cd3f_37161_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>
+&lt;/p>
+&lt;h2 id="deepmind-ai-triumphs-over-human-mathematicians--6">DeepMind AI Triumphs Over Human Mathematicians : &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>DeepMind&amp;rsquo;s FunSearch AI achieves a milestone by outperforming human mathematicians in solving an unsolved problem related to combinatorics. Leveraging large language models, FunSearch showcases the power of AI in generating effective solutions and continually improving through testing and feedback.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/deepmind.png"
+width="1100"
+height="550"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/deepmind_hu310da18f0f9be095c669603440b041be_287434_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/deepmind_hu310da18f0f9be095c669603440b041be_287434_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+>
+&lt;/p>
+&lt;h2 id="axel-springer-and-openai-join-forces-for-ai-in-journalism-7">Axel Springer and OpenAI Join Forces for AI in Journalism: &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Axel Springer and OpenAI are set to deepen the beneficial use of AI in journalism through a strategic partnership. The collaboration aims to enhance ChatGPT with up-to-date news summaries from leading media outlets, providing transparent links to full articles. This partnership also supports Axel Springer’s AI projects relying on OpenAI’s cutting-edge technology.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ai_journalism.png"
+width="1920"
+height="960"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ai_journalism_hu3bb54610414006f0f0bd9a0ce047bd6e_474523_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-december-2023/ai_journalism_hu3bb54610414006f0f0bd9a0ce047bd6e_474523_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+>
+&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.axelspringer.com/en/ax-press-release/axel-springer-and-openai-partner-to-deepen-beneficial-use-of-ai-in-journalism" target="_blank" rel="noopener"
+>https://www.axelspringer.com/en/ax-press-release/axel-springer-and-openai-partner-to-deepen-beneficial-use-of-ai-in-journalism&lt;/a>&lt;/p>
+&lt;h2 id="europe-takes-the-lead-in-ai-regulation-8">Europe Takes the Lead in AI Regulation: &lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Europe sets a historic precedent with the introduction of the AI Act, the first comprehensive pact to regulate AI. Addressing concerns of bias, privacy, and undue influence, the legislation covers all AI areas, including surveillance and critical infrastructure, with strict penalties for non-compliance. While some details need clarification, Europe&amp;rsquo;s progress in setting transparency rules for generative AI developers signals a significant step forward.&lt;/p>
+&lt;p>&lt;a class="link" href="https://finance.yahoo.com/news/europe-puts-stake-ground-first-104448975.html" target="_blank" rel="noopener"
+>https://finance.yahoo.com/news/europe-puts-stake-ground-first-104448975.html&lt;/a>&lt;/p>
+&lt;p>Conclusion:
+From groundbreaking advancements to regulatory milestones, the AI landscape has experienced a month filled with dynamic developments. As we eagerly await the unfolding of future endeavors, these recent events underscore the ever-evolving nature of artificial intelligence and its far-reaching impact on various facets of our lives.&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://stackdiary.com/chatgpts-training-data-can-be-exposed-via-a-divergence-attack/" target="_blank" rel="noopener"
+>chat Gpt &lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://www.theverge.com/2023/12/1/23984497/openai-gpt-store-delayed-ai-gpt" target="_blank" rel="noopener"
+>GPT Store &lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://decrypt.co/207799/pika-ai-video-tool-blasts-out-of-beta" target="_blank" rel="noopener"
+>pika labs &lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://newsroom.ibm.com/AI-Alliance-Launches-as-an-International-Community-of-Leading-Technology-Developers,-Researchers,-and-Adopters-Collaborating-Together-to-Advance-Open,-Safe,-Responsible-AI" target="_blank" rel="noopener"
+>Ibm x Meta &lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://www.cnbc.com/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html" target="_blank" rel="noopener"
+>X.AI &lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://www.nature.com/articles/d41586-023-04043-w" target="_blank" rel="noopener"
+>deepmind &lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://www.axelspringer.com/en/ax-press-release/axel-springer-and-openai-partner-to-deepen-beneficial-use-of-ai-in-journalism" target="_blank" rel="noopener"
+>AI in journalism &lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:8">
+&lt;p>&lt;a class="link" href="https://finance.yahoo.com/news/europe-puts-stake-ground-first-104448975.html" target="_blank" rel="noopener"
+>Europe takes lead &lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>This Month in AI - February 2024</title><link>https://mind-benders.github.io/blog/p/tmai-february-2024/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-february-2024/</guid><description>&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Poster.png"
+width="1080"
+height="1080"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Poster_hu2dcd02a0a4b04a07e48a45aed59a81d1_896633_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Poster_hu2dcd02a0a4b04a07e48a45aed59a81d1_896633_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Poster"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;p>Unveiling the latest technological marvels, February 2024 stands witness to groundbreaking advancements in artificial intelligence (AI). From Meta&amp;rsquo;s Code Llama to Google&amp;rsquo;s Gemini Pro, the month showcases a flurry of innovations propelling the AI landscape into uncharted territories. Let&lt;/p>
+&lt;!--truncate-->
+&lt;h2 id="code-llama-unleashed-by-meta-1-">Code Llama Unleashed by Meta &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> :&lt;/h2>
+&lt;p>Meta&amp;rsquo;s recent introduction of Code Llama 70B marks a significant leap in large language models for coding, offering three variants: the base model, a Python-specific version, and an &amp;lsquo;Instruct&amp;rsquo; version for interpreting natural language commands. What sets it apart is its comparability to GPT-4, making strides in accessibility by providing all editions free for both research and commercial applications.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/llama.png"
+width="2058"
+height="1421"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/llama_huf9b19e50b2b54f970dbb0d3e0445f6f2_35386_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-february-2024/llama_huf9b19e50b2b54f970dbb0d3e0445f6f2_35386_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="144"
+data-flex-basis="347px"
+>
+&lt;/p>
+&lt;h2 id="googles-gemini-pro-surpasses-gpt-4-2-">Google&amp;rsquo;s Gemini Pro Surpasses GPT-4 &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> :&lt;/h2>
+&lt;p>In the fiercely competitive ChatBot Arena, Google&amp;rsquo;s Gemini Pro has not only secured a position just below GPT-4 Turbo but has outshone GPT-4 itself, as per the eloquent rankings based on 200,000+ human votes. With speculations brewing about Meta&amp;rsquo;s impending Llama 3 and the potential Q2 release of OpenAI&amp;rsquo;s GPT-5, the AI sector is abuzz with anticipation and heightened competition.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Gemini.jpg"
+width="1300"
+height="731"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Gemini_hu1cbe70cb132d5cecc6c5cad7e85c0b7d_31111_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Gemini_hu1cbe70cb132d5cecc6c5cad7e85c0b7d_31111_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="openai-unveils-sora-3-">OpenAI Unveils Sora &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> :&lt;/h2>
+&lt;p>OpenAI&amp;rsquo;s unveiling of Sora introduces a groundbreaking AI video generator capable of translating textual prompts into minute-long videos. The demonstrations not only showcase its technical prowess but emphasize the seamless synergy between AI and human creativity, underscoring the potential for collaborative content creation.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/openai_sora.png"
+width="1280"
+height="700"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/openai_sora_hu4173595f00a115f5345ca3d2fb28d91e_382801_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-february-2024/openai_sora_hu4173595f00a115f5345ca3d2fb28d91e_382801_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="182"
+data-flex-basis="438px"
+>
+&lt;/p>
+&lt;h2 id="stability-ai-presents-stable-cascade-4-">Stability AI Presents Stable Cascade &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> :&lt;/h2>
+&lt;p>Stability AI&amp;rsquo;s announcement of Stable Cascade, a research preview of a text-to-image model based on the innovative Würstchen architecture, is making waves. Distributed under a non-commercial license, Stable Cascade not only promises ease of training and fine-tuning on consumer-grade hardware but introduces a three-stage approach for enhanced performance, marking a noteworthy advancement in AI research.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/stability_ai.png"
+width="1080"
+height="1080"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/stability_ai_huc40b81583fcc883667a8cf112a20255a_17565_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-february-2024/stability_ai_huc40b81583fcc883667a8cf112a20255a_17565_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;h2 id="yann-lecun-proposes-v-jepa-for-advanced-machine-intelligence-5-">Yann LeCun Proposes V-JEPA for Advanced Machine Intelligence &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup> :&lt;/h2>
+&lt;p>Yann LeCun&amp;rsquo;s proposal of V-JEPA introduces a novel machine learning paradigm aimed at imbuing systems with the ability to build internal world models and learn intuitively, echoing human cognitive processes. Departing from conventional methods, V-JEPA utilizes a non-generative technique for video understanding, prioritizing abstract interpretation over detailed reproduction.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/V_jepa.png"
+width="1684"
+height="1080"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/V_jepa_hu7b12afab18f6159ec7124d4209da97bf_635168_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-february-2024/V_jepa_hu7b12afab18f6159ec7124d4209da97bf_635168_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="155"
+data-flex-basis="374px"
+>
+&lt;/p>
+&lt;h2 id="google-releases-gemma-6-">Google Releases Gemma &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup> :&lt;/h2>
+&lt;p>Google&amp;rsquo;s recent release of Gemma, an open-source large language model derived from Gemini, comes in two versions with 2 billion (2B) and 7 billion (7B) parameters respectively. Beyond the basic pretrained models, Gemma offers instruction-tuned variants, showcasing Google&amp;rsquo;s commitment to providing state-of-the-art language models catering to various linguistic tasks.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Gemma.png"
+width="1200"
+height="675"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Gemma_hu1164807d7ae3f3bc9579531696a43c14_194678_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Gemma_hu1164807d7ae3f3bc9579531696a43c14_194678_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="nvidias-impressive-growth-in-data-center-gpu-sales-7-">Nvidia&amp;rsquo;s Impressive Growth in Data Center GPU Sales &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup> :&lt;/h2>
+&lt;p>Nvidia&amp;rsquo;s remarkable 409% surge in data center GPU sales is a testament to the escalating demand for AI technologies. With the Hopper GPU series, notably the H100, contributing significantly to robust Q4 earnings and revenue that surpass Wall Street forecasts, Nvidia is solidifying its position as a key player in the AI hardware landscape.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Nvidea.png"
+width="1200"
+height="675"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Nvidea_hue5408f0715dba03ca1804f4948897e62_54158_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-february-2024/Nvidea_hue5408f0715dba03ca1804f4948897e62_54158_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="stability-ai-introduces-stable-diffusion-3-8-">Stability AI Introduces Stable Diffusion 3 &lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup> :&lt;/h2>
+&lt;p>Stability AI&amp;rsquo;s introduction of Stable Diffusion 3 for early preview brings notable enhancements, encompassing improved handling of multi-subject prompts, enhanced image quality, and heightened accuracy in visual text spelling. A select group of users now has the opportunity to test and refine the model, contributing to its refinement before general availability.&lt;/p>
+&lt;h2 id="conclusion">Conclusion:&lt;/h2>
+&lt;p>The AI landscape is undergoing rapid evolution, as showcased by Meta, Google, OpenAI, and Nvidia. Exciting releases such as Code Llama, Gemini Pro, Sora, Gemma, and Stable Cascade demonstrate continual advancements in language models, video generation, and GPU technologies. Yann LeCun&amp;rsquo;s V-JEPA introduces an innovative approach to machine learning paradigms. As we look ahead, the anticipation of Meta&amp;rsquo;s Llama 3 and OpenAI&amp;rsquo;s GPT-5 in the upcoming quarter adds an extra layer of competition and innovation in the AI sector. Stay tuned for more groundbreaking developments!&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://ai.meta.com/blog/code-llama-large-language-model-coding/" target="_blank" rel="noopener"
+>Source: Meta Blog&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://analyticsindiamag.com/googles-gemini-pro-beats-gpt-4/" target="_blank" rel="noopener"
+>Source: Analytics India Magazine&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://openai.com/sora" target="_blank" rel="noopener"
+>Source: OpenAI&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://stability.ai/news/introducing-stable-cascade" target="_blank" rel="noopener"
+>Source: Stability AI&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/" target="_blank" rel="noopener"
+>Source: Meta AI Blog&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://ai.google.dev/gemma/" target="_blank" rel="noopener"
+>Source: Google AI&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://siliconangle.com/2024/02/21/nvidias-data-center-gpu-sales-grow-stunning-409-huge-demand-ai-chips/" target="_blank" rel="noopener"
+>Source: Silicon Angle&lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:8">
+&lt;p>&lt;a class="link" href="https://stability.ai/news/stable-diffusion-3" target="_blank" rel="noopener"
+>Source: Stability AI&lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>This Month in AI - January 2024</title><link>https://mind-benders.github.io/blog/p/tmai-january-2024/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-january-2024/</guid><description>&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/Poster.png"
+width="1080"
+height="1080"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/Poster_hu4fcf9572c8f24c94da8492df626597d1_662082_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/Poster_hu4fcf9572c8f24c94da8492df626597d1_662082_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Poster"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;p>In the fast-paced world of technology, January 2024 unfolds with a myriad of groundbreaking developments. From the rise of AI-generated virtual influencers to legal battles shaping the future of journalism, this month&amp;rsquo;s tech news is marked by innovation, controversy, and a glimpse into the transformative power of artificial intelligence.&lt;/p>
+&lt;!--truncate-->
+&lt;h2 id="virtual-influencers-redefine-marketing-dynamics-amid-ethical-concerns-1">Virtual Influencers Redefine Marketing Dynamics Amid Ethical Concerns &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>AI-created virtual influencers, epitomized by the pink-haired Aitana Lopez, are reshaping the marketing landscape with controlled branding and predictability.&lt;/li>
+&lt;li>Despite their popularity, concerns about transparency and ethics loom large as they challenge traditional influencer models.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/3_girls.png"
+width="491"
+height="246"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/3_girls_hu20e9360fabbff918dc754486caaed113_326209_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/3_girls_hu20e9360fabbff918dc754486caaed113_326209_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="199"
+data-flex-basis="479px"
+>
+&lt;/p>
+&lt;h2 id="the-new-york-times-legal-battle-against-openai-and-microsoft-2">The New York Times&amp;rsquo; Legal Battle Against OpenAI and Microsoft &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>A high-stakes lawsuit unfolds as The New York Times accuses OpenAI and Microsoft of copyright infringement, claiming the unauthorized use of millions of articles.&lt;/li>
+&lt;li>The lawsuit raises crucial questions about the impact of AI models on high-quality journalism, highlighting the tension between innovation and intellectual property protection.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/open_ai_ms.png"
+width="486"
+height="255"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/open_ai_ms_hu0022bdba0a4d40bc4f5b2336c78ecd0c_131078_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/open_ai_ms_hu0022bdba0a4d40bc4f5b2336c78ecd0c_131078_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="457px"
+>
+&lt;/p>
+&lt;h2 id="ai-foundation-model-transparency-act-a-paradigm-shift-3">AI Foundation Model Transparency Act: A Paradigm Shift &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>A proposed bill aims to bring transparency to AI development, requiring companies to disclose copyrighted training data and address potential biases.&lt;/li>
+&lt;li>The bill emphasizes red teaming efforts to prevent the spread of inaccurate or harmful information in critical domains, marking a pivotal step in responsible AI development.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_model.png"
+width="494"
+height="278"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_model_hu9e7b3a6494f408897070b8831811e597_50906_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_model_hu9e7b3a6494f408897070b8831811e597_50906_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="microsoft-revolutionizes-keyboards-with-dedicated-ai-button-4">Microsoft Revolutionizes Keyboards with Dedicated AI Button &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>In a historic move, Microsoft introduces a significant update to the traditional PC keyboard, featuring a dedicated AI button to activate the Copilot chatbot.&lt;/li>
+&lt;li>This innovation underscores Microsoft&amp;rsquo;s commitment to embedding generative AI technology into their products, heralding a new era in human-computer interaction.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_key.png"
+width="185"
+height="185"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_key_huf4ba559412860f0b8cd14c138b320a98_100012_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/ai_key_huf4ba559412860f0b8cd14c138b320a98_100012_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;h2 id="camera-giants-combat-ai-fakes-with-signature-technology-5">Camera Giants Combat AI Fakes with Signature Technology &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>Nikon, Sony, and Canon join forces to develop camera technology embedding tamper-resistant digital signatures in images.&lt;/li>
+&lt;li>This effort aims to distinguish authentic photos from sophisticated fakes, addressing the rising challenge of AI-generated content.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/smart_cam.png"
+width="477"
+height="309"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/smart_cam_hu6f3c9e9692ea0dc2ff0abb74f1c45dfd_357933_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/smart_cam_hu6f3c9e9692ea0dc2ff0abb74f1c45dfd_357933_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="154"
+data-flex-basis="370px"
+>
+&lt;/p>
+&lt;h2 id="cristiano-amon-envisions-rapid-integration-of-generative-ai-6">Cristiano Amon Envisions Rapid Integration of Generative AI &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>Qualcomm CEO Cristiano Amon anticipates the rapid integration of generative AI into mobiles, PCs, and cars.&lt;/li>
+&lt;li>Leveraging efficient AI processors, these advancements promise enriched user experiences through real-time AI applications on battery-operated devices.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/phone_ai.png"
+width="503"
+height="283"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/phone_ai_huf9aad05d903a06980b796e4697a1d064_255481_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/phone_ai_huf9aad05d903a06980b796e4697a1d064_255481_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="openai-launches-gpt-store-unveiling-diverse-applications-7">OpenAI Launches GPT Store: Unveiling Diverse Applications &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>OpenAI pioneers the GPT Store, showcasing applications ranging from trail recommendations to academic research and coding education.&lt;/li>
+&lt;li>The move highlights the versatile applications of OpenAI&amp;rsquo;s language models across various domains and industries.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/gpt_store.png"
+width="738"
+height="415"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-january-2024/gpt_store_hu06d688edbe25834123a48cd97cf28421_127401_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-january-2024/gpt_store_hu06d688edbe25834123a48cd97cf28421_127401_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="ai-transforms-battery-technology-a-microsoft-breakthrough8">AI Transforms Battery Technology: A Microsoft Breakthrough&lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>Microsoft achieves a transformative breakthrough in battery technology using AI to screen over 32 million candidates.&lt;/li>
+&lt;li>The resulting new material could potentially reduce lithium requirements by 70%, addressing both economic and ethical concerns and showcasing the real and transformative potential of AI breakthroughs.&lt;/li>
+&lt;/ul>
+&lt;p>In this dynamic tech landscape, January 2024 stands as a month that propels the world into the next frontier of innovation and ethical considerations. In January 2024, AI-generated virtual influencers, exemplified by Aitana Lopez, are reshaping marketing despite ethical concerns. Legal battles, such as The New York Times&amp;rsquo; lawsuit against OpenAI and Microsoft, highlight the tension between AI innovation and intellectual property protection. The proposed AI Foundation Model Transparency Act seeks to bring accountability to AI development. Microsoft&amp;rsquo;s introduction of a dedicated AI button on the PC keyboard signifies a commitment to seamless integration of generative AI into user experiences. Photography giants are combating AI-generated fakes with tamper-resistant digital signatures.&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://arstechnica.com/ai/2023/12/ai-created-virtual-influencers-are-stealing-business-from-humans/" target="_blank" rel="noopener"
+>Virtual Influencers Redefine Marketing Dynamics Amid Ethical Concerns &lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement" target="_blank" rel="noopener"
+>The New York Times&amp;rsquo; Legal Battle Against OpenAI and Microsoft &lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation" target="_blank" rel="noopener"
+>AI Foundation Model Transparency Act: A Paradigm Shift &lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://www.euronews.com/next/2024/01/04/microsoft-changes-keyboard-layout-for-the-first-time-in-nearly-three-decades-to-add-ai-but" target="_blank" rel="noopener"
+>Microsoft Revolutionizes Keyboards with Dedicated AI Button &lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://asia.nikkei.com/Business/Technology/Nikon-Sony-and-Canon-fight-AI-fakes-with-new-camera-tech" target="_blank" rel="noopener"
+>Camera Giants Combat AI Fakes with Signature Technology &lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://www.ft.com/content/dbc0984b-4801-4aeb-bcab-480704c34161" target="_blank" rel="noopener"
+>Cristiano Amon Envisions Rapid Integration of Generative AI &lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://openai.com/blog/introducing-the-gpt-store" target="_blank" rel="noopener"
+>OpenAI Launches GPT Store: Unveiling Diverse Applications &lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:8">
+&lt;p>&lt;a class="link" href="https://www.independent.co.uk/tech/ai-batteries-material-lithium-microsoft-b2475763.html" target="_blank" rel="noopener"
+>AI Transforms Battery Technology: A Microsoft Breakthrough &lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>This Month in AI - November 2023</title><link>https://mind-benders.github.io/blog/p/tmai-november-2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-november-2023/</guid><description>&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/Poster.png"
+width="1080"
+height="1080"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/Poster_hu79d6c2be61a2f10aa87934733ad2ffdc_470604_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/Poster_hu79d6c2be61a2f10aa87934733ad2ffdc_470604_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Poster"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;h2 id="exciting-ai-developments-november-2023">Exciting AI Developments: November 2023&lt;/h2>
+&lt;p>Artificial intelligence continues to make leaps and bounds, shaping the future in extraordinary ways. November 2023 has been an especially remarkable month for AI, with groundbreaking advancements and innovative solutions emerging from various organizations. In this blog, we&amp;rsquo;ll delve into some of the most noteworthy developments in the world of AI.&lt;/p>
+&lt;!--truncate-->
+&lt;h2 id="redpajama-data-v2-1">RedPajama-Data-V2 &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>Explore the largest public training dataset, RedPajama-Data-V2, boasting 30 trillion tokens from 84 CommonCrawl dumps in multiple languages. With pre-computed quality annotations, it sets a new standard for language model research.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/redpajama.png"
+width="1780"
+height="1206"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/redpajama_hu5bf2fb1bf8386484aadfcf6dc3767cf3_1070472_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/redpajama_hu5bf2fb1bf8386484aadfcf6dc3767cf3_1070472_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="147"
+data-flex-basis="354px"
+>
+&lt;/p>
+&lt;h2 id="grok-elon-musks-debut-in-ai-chatbots-2">Grok: Elon Musk&amp;rsquo;s Debut in AI Chatbots &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>Elon Musk&amp;rsquo;s xAI introduces Grok, a chatbot available exclusively to X Premium+ subscribers. Harnessing real-time information from the X platform and backed by AI specialists from renowned organizations, Grok marks Musk&amp;rsquo;s foray into the AI chatbot arena.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/grok.webp"
+width="520"
+height="280"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/grok_hu3bcf663f1a87f8453b378be4393b3499_4496_480x0_resize_q75_h2_box_2.webp 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/grok_hu3bcf663f1a87f8453b378be4393b3499_4496_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="185"
+data-flex-basis="445px"
+>
+&lt;/p>
+&lt;h2 id="alphafolds-evolution-revolutionizing-biomolecular-research-3">AlphaFold&amp;rsquo;s Evolution: Revolutionizing Biomolecular Research &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>Delve into the next generation of AlphaFold, an advanced AI model reshaping our understanding of biomolecules. Its accurate predictions in the Protein Data Bank hold promise for applications in drug discovery, vaccine development, and environmental initiatives.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/alphafold.png"
+width="2240"
+height="1260"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/alphafold_huece1b874dd8a23c89b69da82a8561b80_1618721_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/alphafold_huece1b874dd8a23c89b69da82a8561b80_1618721_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="anthropics-2b-boost-google-joins-the-ai-proxy-war--4">Anthropic&amp;rsquo;s $2B Boost: Google Joins the AI Proxy War &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>Witness the intensifying AI proxy war as Google invests $2 billion in Anthropic, echoing the substantial commitments made by Microsoft and Amazon. The escalating competition among tech giants underscores the strategic importance of the AI industry.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/anthropic.png"
+width="1024"
+height="537"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/anthropic_hu43a2ad8a170a32984ec02c8377efd7cb_24509_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/anthropic_hu43a2ad8a170a32984ec02c8377efd7cb_24509_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="457px"
+>
+&lt;/p>
+&lt;h2 id="copilots-github-revolution-ai-empowering-developers-5">Copilot&amp;rsquo;s GitHub Revolution: AI Empowering Developers &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>GitHub integrates AI through Copilot and Copilot Chat, ushering in a new era of software development. Powered by OpenAI&amp;rsquo;s GPT-4 model, Copilot offers code understanding, suggestions, security fixes, and an enhanced developer experience.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/github_copilot.jpg"
+width="1920"
+height="1234"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/github_copilot_hufad68abf6107ffc2ef859ebe1b42b6e2_569814_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/github_copilot_hufad68abf6107ffc2ef859ebe1b42b6e2_569814_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="155"
+data-flex-basis="373px"
+>
+&lt;/p>
+&lt;h2 id="nvidia-accelerates-pandas-gpu-powered-performance-6">NVIDIA Accelerates Pandas: GPU-Powered Performance &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>Witness the transformation of the Pandas library as NVIDIA achieves up to 150 times faster performance with GPU acceleration. The cudf.pandas module seamlessly executes operations on GPU or CPU, ensuring efficient synchronization and switching.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/nvidia.png"
+width="1200"
+height="675"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/nvidia_hu03ee53667f88afc51043b83c78bb7f5d_42167_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/nvidia_hu03ee53667f88afc51043b83c78bb7f5d_42167_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="neuralinks-surge-thousands-eager-for-brain-chip-implants-7">Neuralink&amp;rsquo;s Surge: Thousands Eager for Brain Chip Implants &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>Elon Musk&amp;rsquo;s Neuralink captures widespread interest as thousands line up for brain chip implants. Approved for human trials, the brain-computer interface aims to empower those with neurological disorders, opening avenues from device control to mind-based communication.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/neural_link.png"
+width="2400"
+height="1200"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/neural_link_hu85352eb599aa8d19bbce27e7ff2031b8_32726_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/neural_link_hu85352eb599aa8d19bbce27e7ff2031b8_32726_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+>
+&lt;/p>
+&lt;h2 id="stable-video-diffusion-revolutionizing-generative-video-8">Stable Video Diffusion: Revolutionizing Generative Video &lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>&lt;/h2>
+&lt;ul>
+&lt;li>Stability AI introduces Stable Video Diffusion, a potent foundation model for generative video. Publicly accessible on GitHub and Hugging Face, this model has the potential to generate customizable frames at varying frame rates, shaping the future of AI-driven video generation.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/stable_video.png"
+width="1716"
+height="965"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-november-2023/stable_video_hu6006e5b17d9d8b33cd80f675764a8930_470198_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-november-2023/stable_video_hu6006e5b17d9d8b33cd80f675764a8930_470198_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;p>November emerges as a pivotal month, marking significant strides in AI research, industry investments, and the unveiling of cutting-edge technologies.&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://together.ai/blog/redpajama-data-v2" target="_blank" rel="noopener"
+>Red Pajama&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://mashable.com/article/elon-musk-x-ai-update" target="_blank" rel="noopener"
+>Explore Grok&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/" target="_blank" rel="noopener"
+>Alphafold &lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/" target="_blank" rel="noopener"
+>Read about Google&amp;rsquo;s investment&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/" target="_blank" rel="noopener"
+>Explore Copilot&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://rapids.ai/cudf-pandas/" target="_blank" rel="noopener"
+>Discover the enhancements in Nvidia&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11" target="_blank" rel="noopener"
+>Read about Neuralink&lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:8">
+&lt;p>&lt;a class="link" href="https://stability.ai/news/stable-video-diffusion-open-ai-video-model" target="_blank" rel="noopener"
+>Explore Stable Video Diffusion&lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>This Month in AI - October 2023</title><link>https://mind-benders.github.io/blog/p/tmai-october-2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-october-2023/</guid><description>&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/Poster.png"
+width="1080"
+height="1080"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/Poster_hu344a1120191a88b91f47b579446869a0_976716_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/Poster_hu344a1120191a88b91f47b579446869a0_976716_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Poster"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;h2 id="exciting-ai-developments-october-2023">Exciting AI Developments: October 2023&lt;/h2>
+&lt;p>Artificial intelligence continues to make leaps and bounds, shaping the future in extraordinary ways. October 2023 has been an especially remarkable month for AI, with groundbreaking advancements and innovative solutions emerging from various organizations. In this blog, we&amp;rsquo;ll delve into some of the most noteworthy developments in the world of AI.&lt;/p>
+&lt;!--truncate-->
+&lt;h2 id="chatgpt-the-multifaceted-ai-assistant">ChatGPT: The Multifaceted AI Assistant&lt;/h2>
+&lt;p>OpenAI&amp;rsquo;s ChatGPT has undergone some transformative upgrades, making it a more capable AI assistant than ever before. The ability to search the web in real time is a game-changer, allowing users to access the most recent information. Notably, OpenAI has ensured compliance with robots.txt rules and user agent identification to give websites more control. Plus and Enterprise users are already enjoying these enhancements, with expansion plans on the horizon.&lt;/p>
+&lt;p>But that&amp;rsquo;s not all. ChatGPT now possesses the ability to see, hear, and speak. With new voice and image capabilities, users can engage in natural voice conversations and receive relevant responses. Additionally, the image feature enables users to present images to ChatGPT for assistance in interpretation. These additions open up exciting possibilities for interactive and dynamic AI interactions.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/chatgpt.png"
+width="838"
+height="489"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/chatgpt_hu0625ded6681216727fb5529fbebd884b_157286_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/chatgpt_hu0625ded6681216727fb5529fbebd884b_157286_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="ChatGPT"
+class="gallery-image"
+data-flex-grow="171"
+data-flex-basis="411px"
+>
+&lt;/p>
+&lt;h2 id="microsofts-athena-a-game-changing-ai-chip">Microsoft&amp;rsquo;s Athena: A Game-Changing AI Chip&lt;/h2>
+&lt;p>Microsoft is making waves in the AI hardware arena with the introduction of its own AI chip called Athena. This chip is set to reduce the company&amp;rsquo;s reliance on NVIDIA GPUs and compete head-to-head with NVIDIA&amp;rsquo;s H100 GPU for AI acceleration in data centers. This move showcases Microsoft&amp;rsquo;s commitment to achieving self-sufficiency in AI hardware and driving innovation in the AI space.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/ai_athena.jpg"
+width="480"
+height="273"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/ai_athena_hu6bc9b7178bea947d066092be0eae58de_26459_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/ai_athena_hu6bc9b7178bea947d066092be0eae58de_26459_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Microsoft AI Athena"
+class="gallery-image"
+data-flex-grow="175"
+data-flex-basis="421px"
+>
+&lt;/p>
+&lt;h2 id="sturgeon-ai-in-real-time-brain-tumor-diagnosis">Sturgeon: AI in Real-Time Brain Tumor Diagnosis&lt;/h2>
+&lt;p>In the field of healthcare, &amp;ldquo;Sturgeon&amp;rdquo; is making waves as an AI model that utilizes nanopore sequencing to swiftly and accurately diagnose brain tumors. This innovation is set to revolutionize medical treatment by mimicking human brain activity and employing algorithms to recognize patterns and provide precise diagnoses within just 40 minutes. This kind of real-time AI application holds tremendous potential for improving patient outcomes and speeding up medical diagnoses.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/sturgeon.png"
+width="2000"
+height="1125"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/sturgeon_hu18721230ca8aaad7b85eb0bbc3118574_2335537_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/sturgeon_hu18721230ca8aaad7b85eb0bbc3118574_2335537_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Sturgeon"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="openais-ai-chip-consideration">OpenAI&amp;rsquo;s AI Chip Consideration&lt;/h2>
+&lt;p>In a related move, OpenAI is contemplating the development of its own AI chips for ChatGPT. This strategic consideration stems from a global shortage of processors for training AI models. Such a move could help reduce the exorbitant operating costs of ChatGPT, which currently amount to a staggering $700,000 per day. It&amp;rsquo;s worth noting that OpenAI&amp;rsquo;s decision may differ from Microsoft, their partner, who is also working on their own AI chips.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/openai.png"
+width="1600"
+height="900"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/openai_hucdcfdc70cdb1770027b6efab9c4d7d18_32674_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/openai_hucdcfdc70cdb1770027b6efab9c4d7d18_32674_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Openai Logo"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="stable-lm-3b-powering-smart-devices-with-ai">Stable LM 3B: Powering Smart Devices with AI&lt;/h2>
+&lt;p>Stability AI introduces Stable LM 3B, a high-performing language model designed specifically for smart devices. Boasting 3 billion parameters, this model outperforms state-of-the-art 3B models while significantly reducing operating costs and power consumption. The result is an AI model that enables a broader range of applications on smart devices, PCs, and edge computing, paving the way for enhanced user experiences and improved efficiency.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/stable_ai.jpg"
+width="791"
+height="528"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/stable_ai_hu796acb0837912d438c40ba71edc4a923_30658_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/stable_ai_hu796acb0837912d438c40ba71edc4a923_30658_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Stable LM 3B Logo"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+>
+&lt;/p>
+&lt;h2 id="fuyu-8b-a-multimodal-marvel">Fuyu-8B: A Multimodal Marvel&lt;/h2>
+&lt;p>Adept has unveiled Fuyu-8B, an impressive open-source vision-language model engineered to comprehend and respond to questions about images, charts, diagrams, and documents. This multimodal AI architecture promises to unlock new horizons in AI-driven image and document analysis, offering a plethora of applications in fields such as healthcare, education, and more.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/adept.jpg"
+width="800"
+height="601"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-october-2023/adept_hu7c271176ca3bbd22cd0ed7304f3ddc7a_24250_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-october-2023/adept_hu7c271176ca3bbd22cd0ed7304f3ddc7a_24250_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Adept Logo"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>
+&lt;/p>
+&lt;p>In conclusion, October 2023 has been a momentous month for AI enthusiasts. With advancements in AI hardware, language models, multimodal AI, and real-time medical diagnosis, the landscape of artificial intelligence is evolving at an incredible pace. These developments not only reflect the cutting-edge capabilities of AI but also point to the potential for AI to transform industries and improve the quality of our lives. The future of AI is undoubtedly exciting, and it promises to bring more innovations and discoveries in the months and years to come.&lt;/p>
+&lt;p>[^6] [Adept Fuyu-8B] (&lt;a class="link" href="https://www.adept.ai/blog/fuyu-8b" target="_blank" rel="noopener"
+>https://www.adept.ai/blog/fuyu-8b&lt;/a>)&lt;/p></description></item><item><title>This Month in AI - September 2023</title><link>https://mind-benders.github.io/blog/p/tmai-september-2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-september-2023/</guid><description>&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Poster.png"
+width="1080"
+height="1080"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Poster_hu18fc6c7f5745be3b1e0096d3cc819939_376976_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Poster_hu18fc6c7f5745be3b1e0096d3cc819939_376976_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Poster"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;h2 id="the-latest-breakthroughs-in-ai-a-look-at-recent-developments">The Latest Breakthroughs in AI: A Look at Recent Developments&lt;/h2>
+&lt;p>In the ever-evolving world of artificial intelligence, groundbreaking innovations are constantly emerging. From speech recognition advancements to music generation and everything in between, the AI landscape is teeming with exciting developments. In this blog, we&amp;rsquo;ll delve into some of the most noteworthy recent achievements in AI technology.&lt;/p>
+&lt;!--truncate-->
+&lt;hr>
+&lt;h2 id="open-asr-leaderboard-leading-the-way-in-speech-recognition-1">Open ASR Leaderboard: Leading the Way in Speech Recognition &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Hugging Face, a prominent AI platform, has introduced the Open ASR Leaderboard, a platform that ranks and evaluates speech recognition models. The current top performers are NVIDIA FastConformer and OpenAI Whisper, both excelling in English speech recognition. The future promises multilingual evaluation, expanding the reach and capabilities of these remarkable speech-to-text models.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/open-asr-leaderboard.png"
+width="1200"
+height="648"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/open-asr-leaderboard_huf3030cd8da0ad2fd54fb9ef4c6648cc4_25825_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/open-asr-leaderboard_huf3030cd8da0ad2fd54fb9ef4c6648cc4_25825_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Open ASR Leaderboard"
+class="gallery-image"
+data-flex-grow="185"
+data-flex-basis="444px"
+>
+&lt;/p>
+&lt;hr>
+&lt;h2 id="stable-audio-crafting-music-with-ai-precision-2">Stable Audio: Crafting Music with AI Precision &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Stability AI, a London-based startup known for its AI model Stable Diffusion, has unveiled Stable Audio. This cutting-edge AI model empowers users to generate high-quality commercial music with unprecedented control over synthesized audio. With this tool, music creation takes on a new dimension, offering artists and producers innovative ways to express their creativity.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/stable-audio.png"
+width="560"
+height="520"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/stable-audio_hu9cfbe96cda53446b3f5c4910fadab09d_180743_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/stable-audio_hu9cfbe96cda53446b3f5c4910fadab09d_180743_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Stable Audio"
+class="gallery-image"
+data-flex-grow="107"
+data-flex-basis="258px"
+>
+&lt;/p>
+&lt;hr>
+&lt;h2 id="googles-gemini-the-next-generation-of-language-models-3">Google&amp;rsquo;s Gemini: The Next Generation of Language Models &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>The Information has reported that Google is on the verge of launching Gemini, an advanced language model poised to rival GPT-4. Currently in early testing, Gemini boasts a wide array of functionalities, including chatbots, text summarization, and code writing assistance. This development promises to elevate the capabilities of AI-powered language models to new heights.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/google-intro-gemini.jpg"
+width="1280"
+height="720"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/google-intro-gemini_huc7561527f8917048aeba422cd8d9f570_137974_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/google-intro-gemini_huc7561527f8917048aeba422cd8d9f570_137974_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Google Introducing Gemini"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;hr>
+&lt;h2 id="adobes-firefly-generative-ai-in-creative-cloud-4">Adobe&amp;rsquo;s Firefly: Generative AI in Creative Cloud &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Adobe has taken a bold step by releasing generative AI models within its Creative Cloud ecosystem, complete with a standalone web app named Firefly. The unique &amp;ldquo;generative credits&amp;rdquo; system allows users to control their interactions with Firefly&amp;rsquo;s AI models, with each click on &amp;lsquo;generate&amp;rsquo; utilizing one credit. This innovation opens up fresh avenues for creative professionals to explore their artistic potential.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/adobee-firefly.jpg"
+width="1200"
+height="672"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/adobee-firefly_hu2d9e69ac709735271fd47933b8a77ab3_67868_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/adobee-firefly_hu2d9e69ac709735271fd47933b8a77ab3_67868_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Adobe Firefly"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="428px"
+>
+&lt;/p>
+&lt;hr>
+&lt;h2 id="roblox-assistant-elevating-virtual-world-creation-5">Roblox Assistant: Elevating Virtual World Creation &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>The 2023 Roblox Developers Conference introduced the Roblox Assistant, a conversational AI tool designed to assist creators in crafting immersive virtual experiences. With this tool, creators can easily generate virtual environments and implement basic gameplay behaviours, promising a more accessible and streamlined development process.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/roblox-assistant.jpg"
+width="1543"
+height="1080"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/roblox-assistant_hu333cc375b50ab0993f4c92ec6f40cebc_293630_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/roblox-assistant_hu333cc375b50ab0993f4c92ec6f40cebc_293630_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Roblox Assistant"
+class="gallery-image"
+data-flex-grow="142"
+data-flex-basis="342px"
+>
+&lt;/p>
+&lt;hr>
+&lt;h2 id="microsoft-copilot-your-personal-ai-companion-6">Microsoft Copilot: Your Personal AI Companion &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>Microsoft Copilot is set to become an everyday AI companion, offering tailored assistance based on workplace data and web context. This AI powerhouse enhances productivity and creativity across Windows 11, Microsoft 365, Edge, and Bing, all while prioritizing user privacy. Bing and Edge users will also enjoy personalized experiences powered by OpenAI&amp;rsquo;s DALL.E 3 model, including AI-driven shopping and image creation.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Microsoft-Copilot.jpg"
+width="1000"
+height="520"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Microsoft-Copilot_hud639337710ddd86d9c7cb82a6c336a1c_47279_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-september-2023/Microsoft-Copilot_hud639337710ddd86d9c7cb82a6c336a1c_47279_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Microsoft Copilot"
+class="gallery-image"
+data-flex-grow="192"
+data-flex-basis="461px"
+>
+&lt;/p>
+&lt;hr>
+&lt;h2 id="bard-extensions-bridging-the-gap-with-google-services-7">Bard Extensions: Bridging the Gap with Google Services &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/h2>
+&lt;p>The newly introduced Bard Extensions feature provides AI professionals with seamless integration with various Google tools. This enables efficient collaboration by fetching and displaying relevant information from Gmail, Docs, Drive, Maps, YouTube, Flights, and hotels, regardless of its scattered nature.&lt;/p>
+&lt;hr>
+&lt;p>In conclusion, the world of AI continues to push boundaries and deliver game-changing innovations. From speech recognition advancements to music generation, language models, creative tools, virtual world building, and personal AI companions, these developments are shaping the future of AI technology and its impact on our daily lives. Keep an eye on these breakthroughs as they usher in a new era of possibilities.&lt;/p>
+&lt;hr>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://huggingface.co/spaces/hf-audio/open_asr_leaderboard" target="_blank" rel="noopener"
+>Open ASR Leaderboard&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://www.stableaudio.com/" target="_blank" rel="noopener"
+>Stable Audio&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://www.reuters.com/technology/google-nears-release-ai-software-gemini-information-2023-09-15/" target="_blank" rel="noopener"
+>Google&amp;rsquo;s Gemini&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://techcrunch.com/2023/09/13/adobes-firefly-generative-ai-models-are-now-generally-available-get-pricing-plans/?guccounter=1" target="_blank" rel="noopener"
+>Adobe&amp;rsquo;s Firefly&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://www.theverge.com/2023/9/8/23863943/roblox-ai-chatbot-assistant-ai-rdc-2023" target="_blank" rel="noopener"
+>Roblox Assistant&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/" target="_blank" rel="noopener"
+>Microsoft Copilot&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://blog.google/products/bard/google-bard-new-features-update-sept-2023/" target="_blank" rel="noopener"
+>Bard Extensions&lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item></channel></rss>
