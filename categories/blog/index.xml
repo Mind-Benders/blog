@@ -1,4 +1,165 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/categories/blog/</link><description>Recent content in Blog on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/categories/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - February 2024</title><link>https://mind-benders.github.io/blog/p/tmai-february-2024/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-february-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-february-2024/Poster.png" alt="Featured image of post This Month in AI - February 2024" />&lt;p>Unveiling the latest technological marvels, February 2024 stands witness to groundbreaking advancements in artificial intelligence (AI). From Meta&amp;rsquo;s Code Llama to Google&amp;rsquo;s Gemini Pro, the month showcases a flurry of innovations propelling the AI landscape into uncharted territories. Let&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/categories/blog/</link><description>Recent content in Blog on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/categories/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - March 2024</title><link>https://mind-benders.github.io/blog/p/tmai-march-2024/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-march-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-march-2024/Poster.png" alt="Featured image of post This Month in AI - March 2024" />&lt;h2 id="cognition-launches-devin-the-ai-software-engineer-1">
+&lt;a href="#cognition-launches-devin-the-ai-software-engineer-1" class="header-anchor">#&lt;/a>
+Cognition Launches Devin, the AI Software Engineer &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>:
+&lt;/h2>&lt;p>Cognition introduces Devin, an AI-designed autonomous software engineer aimed at augmenting coding teams. Devin demonstrates proficiency in learning and debugging, autonomously resolving real-world GitHub issues. This innovation showcases the potential of AI in streamlining software development processes and addressing complex coding challenges. Cognition&amp;rsquo;s Devin represents a leap forward in AI-assisted software engineering, promising increased efficiency and productivity for development teams.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/cognition.png"
+width="900"
+height="500"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/cognition_hu5332d453ab8d14677be731035ed37669_329939_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-march-2024/cognition_hu5332d453ab8d14677be731035ed37669_329939_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Cognition"
+class="gallery-image"
+data-flex-grow="180"
+data-flex-basis="432px"
+>
+&lt;/p>
+&lt;h2 id="neuralink-demonstrates-brain-computer-interface2">
+&lt;a href="#neuralink-demonstrates-brain-computer-interface2" class="header-anchor">#&lt;/a>
+Neuralink Demonstrates Brain-Computer Interface:&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Neuralink showcases a paralyzed patient using a brain implant to play chess and operate a computer cursor, demonstrating the potential of brain-computer interfaces to empower individuals with disabilities. This milestone, following FDA approval for clinical trials, highlights the transformative impact of neural interface technology on healthcare and accessibility. Neuralink&amp;rsquo;s breakthrough paves the way for future advancements in augmenting human capabilities through direct brain-to-machine communication.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/neural_link.png"
+width="1200"
+height="393"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/neural_link_hu826efd0d75e79dbd9e0c90162d43adbe_17622_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-march-2024/neural_link_hu826efd0d75e79dbd9e0c90162d43adbe_17622_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Neural link"
+class="gallery-image"
+data-flex-grow="305"
+data-flex-basis="732px"
+>
+&lt;/p>
+&lt;h2 id="stability-ai-introduces-stable-video-3d-3">
+&lt;a href="#stability-ai-introduces-stable-video-3d-3" class="header-anchor">#&lt;/a>
+Stability AI Introduces Stable Video 3D &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>:
+&lt;/h2>&lt;p>Stability AI unveils Stable Video 3D (SV3D), a novel generative model enhancing 3D technology with improved quality and consistency. SV3D offers two versions catering to different user needs, with commercial access requiring a Stability AI Membership. This innovation represents a significant advancement in 3D content creation, offering new possibilities for industries such as entertainment, gaming, and virtual reality.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/stability_ai.jpg"
+width="767"
+height="404"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/stability_ai_hue74f8fae8d4fe280995a7a481cf21d86_23755_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-march-2024/stability_ai_hue74f8fae8d4fe280995a7a481cf21d86_23755_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="stability ai"
+class="gallery-image"
+data-flex-grow="189"
+data-flex-basis="455px"
+>
+&lt;/p>
+&lt;h2 id="nvidias-humanoid-robot-platform-">
+&lt;a href="#nvidias-humanoid-robot-platform-" class="header-anchor">#&lt;/a>
+Nvidia&amp;rsquo;s Humanoid Robot Platform :
+&lt;/h2>&lt;p>Nvidia announces plans to launch a software and hardware platform aimed at developing humanoid robots powered by generative AI. This initiative marks a significant step forward in robotics technology, potentially revolutionizing various industries and applications. Nvidia&amp;rsquo;s commitment to advancing humanoid robotics underscores the growing convergence of AI and robotics in shaping the future of automation and human-machine interaction.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/nvidea.png"
+width="1200"
+height="675"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/nvidea_hue5408f0715dba03ca1804f4948897e62_54158_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-march-2024/nvidea_hue5408f0715dba03ca1804f4948897e62_54158_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="nvidea"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="elon-musk-sues-openai-5">
+&lt;a href="#elon-musk-sues-openai-5" class="header-anchor">#&lt;/a>
+Elon Musk Sues OpenAI &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>:
+&lt;/h2>&lt;p>Elon Musk files a lawsuit against OpenAI, alleging a departure from its initial mission of promoting AGI for public benefit due to a profit-centered partnership with Microsoft. The lawsuit reflects growing concerns about the direction of AI development and the implications of corporate alliances on its ethical governance. Musk&amp;rsquo;s legal action underscores the importance of transparency and accountability in AI research and deployment.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/open_ai.png"
+width="585"
+height="368"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/open_ai_hu94f8969814906992b255472e311786d1_9115_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-march-2024/open_ai_hu94f8969814906992b255472e311786d1_9115_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="open ai"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="381px"
+>
+&lt;/p>
+&lt;h2 id="apple-discontinues-project-titan-6-">
+&lt;a href="#apple-discontinues-project-titan-6-" class="header-anchor">#&lt;/a>
+Apple Discontinues Project Titan &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup> :
+&lt;/h2>&lt;p>Apple terminates its &amp;ldquo;Project Titan&amp;rdquo; electric car initiative, redirecting resources toward generative AI projects. This strategic shift reflects Apple&amp;rsquo;s ongoing commitment to innovation and adapting to market dynamics. The move underscores the significance of AI development in shaping Apple&amp;rsquo;s future endeavors and highlights the company&amp;rsquo;s agility in responding to evolving technological landscapes.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/apple.jpg"
+width="2000"
+height="2000"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/apple_hu6f5ce95f944f138ef609bc187e73138b_84210_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-march-2024/apple_hu6f5ce95f944f138ef609bc187e73138b_84210_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Apple"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;h2 id="googles-search-algorithm-update-7">
+&lt;a href="#googles-search-algorithm-update-7" class="header-anchor">#&lt;/a>
+Google&amp;rsquo;s Search Algorithm Update &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>:
+&lt;/h2>&lt;p>Google announces an update to its Search algorithm aimed at combating spammy and low-quality content while promoting trustworthy websites. The algorithm revision emphasizes elevating user experience by prioritizing high-quality and relevant content, aligning with Google&amp;rsquo;s mission to provide reliable information to users worldwide. This update reflects Google&amp;rsquo;s ongoing efforts to enhance search quality and combat misinformation on the internet.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/google.jpg"
+width="800"
+height="450"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/google_hu242ec00f9d6a312d184b899c0ac8f596_16309_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-march-2024/google_hu242ec00f9d6a312d184b899c0ac8f596_16309_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="google"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="european-parliament-passes-ai-regulation-act-8">
+&lt;a href="#european-parliament-passes-ai-regulation-act-8" class="header-anchor">#&lt;/a>
+European Parliament Passes AI Regulation Act &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>:
+&lt;/h2>&lt;p>The European Parliament approves the world&amp;rsquo;s first major AI regulation act, mandating risk-based regulation of artificial intelligence with stringent consumer protections and human oversight. Set for implementation in 2025, this legislation is poised to influence global tech firms and set a precedent for international AI regulations. The EU&amp;rsquo;s proactive approach to AI governance underscores the importance of ethical considerations and societal impacts in shaping AI development and deployment.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/law.jpg"
+width="450"
+height="450"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/law_hua7370ac56ecd9032ad233d8f3f625a8f_31697_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-march-2024/law_hua7370ac56ecd9032ad233d8f3f625a8f_31697_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="law"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;p>In April 2024, the tech landscape witnessed significant developments across various fronts. Mistral AI launched Mistral Large, rivaling GPT-4 with its expansive context window and multilingual capabilities, while Elon Musk&amp;rsquo;s lawsuit against OpenAI highlighted concerns about AI&amp;rsquo;s trajectory. Apple&amp;rsquo;s decision to discontinue Project Titan underscored a strategic shift towards generative AI projects, as Google&amp;rsquo;s algorithm update aimed to enhance search quality by demoting low-quality content. Inflection-2.5 impressed with its advanced cognitive capabilities and efficiency in AI tasks, while Nvidia&amp;rsquo;s humanoid robot platform hinted at future advancements in robotics. Neuralink&amp;rsquo;s demonstration of brain-computer interface technology showcased its potential to empower individuals with disabilities, while European lawmakers&amp;rsquo; passage of the AI Regulation Act set a precedent for ethical AI governance. These developments collectively shape the evolving landscape of technology and artificial intelligence, impacting industries and society at large.&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://www.cognition-labs.com/introducing-devin" target="_blank" rel="noopener"
+>Cognition &lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://www.theverge.com/2024/3/21/24107499neuralink-human-trial-chess-video-brain-computer-interface" target="_blank" rel="noopener"
+>The Verge&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://stability.ai/news/introducing-stable-video-3d" target="_blank" rel="noopener"
+>Stability AI&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/" target="_blank" rel="noopener"
+>Courthouse News&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down" target="_blank" rel="noopener"
+>The Verge&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://blog.google/products/search/google-search-update-march-2024/" target="_blank" rel="noopener"
+>Google Blog&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://www.cnbc.com/2024/03/13/european-lawmakers-endorse-worlds-first-major-act-to-regulate-ai.html" target="_blank" rel="noopener"
+>CNBC &lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>This Month in AI - February 2024</title><link>https://mind-benders.github.io/blog/p/tmai-february-2024/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-february-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-february-2024/Poster.png" alt="Featured image of post This Month in AI - February 2024" />&lt;p>Unveiling the latest technological marvels, February 2024 stands witness to groundbreaking advancements in artificial intelligence (AI). From Meta&amp;rsquo;s Code Llama to Google&amp;rsquo;s Gemini Pro, the month showcases a flurry of innovations propelling the AI landscape into uncharted territories. Let&lt;/p>
 &lt;h2 id="code-llama-unleashed-by-meta-1-">
 &lt;a href="#code-llama-unleashed-by-meta-1-" class="header-anchor">#&lt;/a>
 Code Llama Unleashed by Meta &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> :
