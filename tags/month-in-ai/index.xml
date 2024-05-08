@@ -1,6 +1,141 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Month in AI on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/tags/month-in-ai/</link><description>Recent content in Month in AI on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/tags/month-in-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - March 2024</title><link>https://mind-benders.github.io/blog/p/tmai-march-2024/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-march-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-march-2024/Poster.png" alt="Featured image of post This Month in AI - March 2024" />&lt;h2 id="cognition-launches-devin-the-ai-software-engineer-1">
-&lt;a href="#cognition-launches-devin-the-ai-software-engineer-1" class="header-anchor">#&lt;/a>
-Cognition Launches Devin, the AI Software Engineer &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Month in AI on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/tags/month-in-ai/</link><description>Recent content in Month in AI on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/tags/month-in-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - April 2024</title><link>https://mind-benders.github.io/blog/p/tmai-april-2024/</link><pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-april-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-april-2024/Poster.png" alt="Featured image of post This Month in AI - April 2024" />&lt;p>April 2024 marked a pivotal moment in AI, with OpenAI leading the charge. Collaborating with Microsoft on &amp;lsquo;Stargate,&amp;rsquo; they pushed boundaries. Breakthroughs like the Voice Engine and Jamba advanced voice cloning and data processing. Databricks&amp;rsquo; DBRX and Amazon&amp;rsquo;s investment in Anthropic showcased industry-wide progress. OpenAI&amp;rsquo;s democratizing efforts, from ChatGPT accessibility to custom model training expansion, underscored its vital role in AI&amp;rsquo;s democratization.&lt;/p>
+&lt;h2 id="openai-and-microsoft-collaborate-on-stargate-ai-supercomputer-project">
+&lt;a href="#openai-and-microsoft-collaborate-on-stargate-ai-supercomputer-project" class="header-anchor">#&lt;/a>
+OpenAI and Microsoft Collaborate on &amp;ldquo;Stargate&amp;rdquo; AI Supercomputer Project
+&lt;/h2>&lt;p>OpenAI and Microsoft are collaborating on the &amp;ldquo;Stargate&amp;rdquo; AI supercomputer project, aiming to redefine datacenter capabilities. With a projected investment exceeding $115 billion, millions of GPUs will be deployed in the U.S. This initiative signifies a significant commitment to advancing AI research and development, promising innovation and computation beyond current limits.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/stargate.png"
+width="730"
+height="410"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/stargate_hu0f00a11b2b1ff65d0952fc9321951268_36084_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-april-2024/stargate_hu0f00a11b2b1ff65d0952fc9321951268_36084_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="427px"
+>
+&lt;/p>
+&lt;h2 id="openai-introduces-voice-engine-with-15-second-sample-capability">
+&lt;a href="#openai-introduces-voice-engine-with-15-second-sample-capability" class="header-anchor">#&lt;/a>
+OpenAI Introduces Voice Engine with 15-Second Sample Capability
+&lt;/h2>&lt;p>OpenAI introduces a Voice Engine capable of generating synthetic voices from 15-second audio samples, marking a milestone in voice cloning technology. Prioritizing consent guidelines, OpenAI ensures ethical deployment across industries.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/open_ai.png"
+width="285"
+height="179"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/open_ai_hu4030ca6489970a3e19666afc1039fbad_3025_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-april-2024/open_ai_hu4030ca6489970a3e19666afc1039fbad_3025_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="382px"
+>
+&lt;/p>
+&lt;h2 id="ai21labs-unveils-jamba-a-hybrid-ai-model-for-enhanced-data-processing">
+&lt;a href="#ai21labs-unveils-jamba-a-hybrid-ai-model-for-enhanced-data-processing" class="header-anchor">#&lt;/a>
+AI21Labs Unveils Jamba: A Hybrid AI Model for Enhanced Data Processing
+&lt;/h2>&lt;p>AI21Labs unveils Jamba, a hybrid AI model integrating Structured State Space (SSM) with Transformer architecture. Jamba aims to enhance efficiency and versatility in processing complex data sequences, showcasing prospects for optimizing AI systems.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/ai21.png"
+width="138"
+height="138"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/ai21_hu962c2f7ef723d4125ad801b5a3e44a9b_4746_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-april-2024/ai21_hu962c2f7ef723d4125ad801b5a3e44a9b_4746_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p>
+&lt;h2 id="databricks-introduces-dbrx-state-of-the-art-open-llm">
+&lt;a href="#databricks-introduces-dbrx-state-of-the-art-open-llm" class="header-anchor">#&lt;/a>
+Databricks Introduces DBRX: State-of-the-Art Open LLM
+&lt;/h2>&lt;p>Databricks introduces DBRX, an open-source large language model (LLM) surpassing the capabilities of GPT-3.5. With 132 billion parameters, DBRX leverages a mixture-of-experts architecture for unparalleled performance.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/databricks.png"
+width="276"
+height="145"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/databricks_huab54c74ad3c16028455a0b26ecaf7a43_13449_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-april-2024/databricks_huab54c74ad3c16028455a0b26ecaf7a43_13449_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="456px"
+>
+&lt;/p>
+&lt;h2 id="amazon-invests-4-billion-in-anthropic-for-ai-advancement">
+&lt;a href="#amazon-invests-4-billion-in-anthropic-for-ai-advancement" class="header-anchor">#&lt;/a>
+Amazon Invests $4 Billion in Anthropic for AI Advancement
+&lt;/h2>&lt;p>Amazon invests $4 billion in Anthropic, an AI company leveraging AWS technologies for model development. Integration of Anthropic&amp;rsquo;s models into Amazon Bedrock enriches their AI ecosystem, pushing boundaries of AI innovation.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/amazon.png"
+width="258"
+height="159"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/amazon_hucd3b06500b64fe31dcefe330fdadcb3f_10142_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-april-2024/amazon_hucd3b06500b64fe31dcefe330fdadcb3f_10142_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="162"
+data-flex-basis="389px"
+>
+&lt;/p>
+&lt;h2 id="openai-simplifies-access-to-chatgpt">
+&lt;a href="#openai-simplifies-access-to-chatgpt" class="header-anchor">#&lt;/a>
+OpenAI Simplifies Access to ChatGPT
+&lt;/h2>&lt;p>OpenAI enables instant usage of ChatGPT for new users, eliminating the need for initial account creation. This initiative streamlines AI interaction, making ChatGPT readily available to individuals seeking conversational AI capabilities.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/open_ai.png"
+width="285"
+height="179"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/open_ai_hu4030ca6489970a3e19666afc1039fbad_3025_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-april-2024/open_ai_hu4030ca6489970a3e19666afc1039fbad_3025_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="382px"
+>
+&lt;/p>
+&lt;h2 id="openais-sora-creates-psychedelic-music-video">
+&lt;a href="#openais-sora-creates-psychedelic-music-video" class="header-anchor">#&lt;/a>
+OpenAI&amp;rsquo;s Sora Creates Psychedelic Music Video
+&lt;/h2>&lt;p>OpenAI&amp;rsquo;s text-to-video engine, Sora, creates its inaugural music video for August Kamp&amp;rsquo;s song &amp;ldquo;Worldweight,&amp;rdquo; showcasing surreal visuals. This achievement highlights AI&amp;rsquo;s potential in creative endeavors, blending technology and artistic expression.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/ai_sora.jpg"
+width="236"
+height="129"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/ai_sora_hu6c5574fb33797b684661bfebfd908a03_7673_480x0_resize_q75_box.jpg 480w, https://mind-benders.github.io/blog/blog/p/tmai-april-2024/ai_sora_hu6c5574fb33797b684661bfebfd908a03_7673_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="182"
+data-flex-basis="439px"
+>
+&lt;/p>
+&lt;h2 id="openai-expands-custom-model-training-program">
+&lt;a href="#openai-expands-custom-model-training-program" class="header-anchor">#&lt;/a>
+OpenAI Expands Custom Model Training Program
+&lt;/h2>&lt;p>OpenAI expands its Custom Model initiative, empowering businesses to develop tailored AI models. Advanced hyperparameter optimization and scalable methods enhance fine-tuning capabilities, fostering innovation across sectors.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/open_ai.png"
+width="285"
+height="179"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/open_ai_hu4030ca6489970a3e19666afc1039fbad_3025_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-april-2024/open_ai_hu4030ca6489970a3e19666afc1039fbad_3025_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="382px"
+>
+&lt;/p>
+&lt;h2 id="tesla-boosts-ai-team-compensation">
+&lt;a href="#tesla-boosts-ai-team-compensation" class="header-anchor">#&lt;/a>
+Tesla Boosts AI Team Compensation
+&lt;/h2>&lt;p>Tesla announces plans to increase compensation for its AI team, aiming to retain and attract top talent. This strategic move underlines Tesla&amp;rsquo;s dedication to critical initiatives like autonomous driving and humanoid robotics, advancing AI within the company.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/tesla.png"
+width="181"
+height="181"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-april-2024/tesla_hu5690cebbe5ab892f3da600ea9311d2d0_8276_480x0_resize_box_3.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-april-2024/tesla_hu5690cebbe5ab892f3da600ea9311d2d0_8276_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>
+&lt;/p></description></item><item><title>This Month in AI - March 2024</title><link>https://mind-benders.github.io/blog/p/tmai-march-2024/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-march-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-march-2024/Poster.png" alt="Featured image of post This Month in AI - March 2024" />&lt;h2 id="cognition-launches-devin-the-ai-software-engineer-1-">
+&lt;a href="#cognition-launches-devin-the-ai-software-engineer-1-" class="header-anchor">#&lt;/a>
+Cognition Launches Devin, the AI Software Engineer &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> :
 &lt;/h2>&lt;p>Cognition introduces Devin, an AI-designed autonomous software engineer aimed at augmenting coding teams. Devin demonstrates proficiency in learning and debugging, autonomously resolving real-world GitHub issues. This innovation showcases the potential of AI in streamlining software development processes and addressing complex coding challenges. Cognition&amp;rsquo;s Devin represents a leap forward in AI-assisted software engineering, promising increased efficiency and productivity for development teams.&lt;/p>
 &lt;p>
 &lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/cognition.png"
@@ -30,9 +165,9 @@ data-flex-grow="305"
 data-flex-basis="732px"
 >
 &lt;/p>
-&lt;h2 id="stability-ai-introduces-stable-video-3d-3">
-&lt;a href="#stability-ai-introduces-stable-video-3d-3" class="header-anchor">#&lt;/a>
-Stability AI Introduces Stable Video 3D &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>:
+&lt;h2 id="stability-ai-introduces-stable-video-3d-3-">
+&lt;a href="#stability-ai-introduces-stable-video-3d-3-" class="header-anchor">#&lt;/a>
+Stability AI Introduces Stable Video 3D &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> :
 &lt;/h2>&lt;p>Stability AI unveils Stable Video 3D (SV3D), a novel generative model enhancing 3D technology with improved quality and consistency. SV3D offers two versions catering to different user needs, with commercial access requiring a Stability AI Membership. This innovation represents a significant advancement in 3D content creation, offering new possibilities for industries such as entertainment, gaming, and virtual reality.&lt;/p>
 &lt;p>
 &lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/stability_ai.jpg"
@@ -62,9 +197,9 @@ data-flex-grow="177"
 data-flex-basis="426px"
 >
 &lt;/p>
-&lt;h2 id="elon-musk-sues-openai-5">
-&lt;a href="#elon-musk-sues-openai-5" class="header-anchor">#&lt;/a>
-Elon Musk Sues OpenAI &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>:
+&lt;h2 id="elon-musk-sues-openai-5-">
+&lt;a href="#elon-musk-sues-openai-5-" class="header-anchor">#&lt;/a>
+Elon Musk Sues OpenAI &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> :
 &lt;/h2>&lt;p>Elon Musk files a lawsuit against OpenAI, alleging a departure from its initial mission of promoting AGI for public benefit due to a profit-centered partnership with Microsoft. The lawsuit reflects growing concerns about the direction of AI development and the implications of corporate alliances on its ethical governance. Musk&amp;rsquo;s legal action underscores the importance of transparency and accountability in AI research and deployment.&lt;/p>
 &lt;p>
 &lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/open_ai.png"
@@ -96,7 +231,7 @@ data-flex-basis="240px"
 &lt;/p>
 &lt;h2 id="googles-search-algorithm-update-7">
 &lt;a href="#googles-search-algorithm-update-7" class="header-anchor">#&lt;/a>
-Google&amp;rsquo;s Search Algorithm Update &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>:
+Google&amp;rsquo;s Search Algorithm Update &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>
 &lt;/h2>&lt;p>Google announces an update to its Search algorithm aimed at combating spammy and low-quality content while promoting trustworthy websites. The algorithm revision emphasizes elevating user experience by prioritizing high-quality and relevant content, aligning with Google&amp;rsquo;s mission to provide reliable information to users worldwide. This update reflects Google&amp;rsquo;s ongoing efforts to enhance search quality and combat misinformation on the internet.&lt;/p>
 &lt;p>
 &lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/google.jpg"
@@ -112,7 +247,7 @@ data-flex-basis="426px"
 &lt;/p>
 &lt;h2 id="european-parliament-passes-ai-regulation-act-8">
 &lt;a href="#european-parliament-passes-ai-regulation-act-8" class="header-anchor">#&lt;/a>
-European Parliament Passes AI Regulation Act &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>:
+European Parliament Passes AI Regulation Act &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>
 &lt;/h2>&lt;p>The European Parliament approves the world&amp;rsquo;s first major AI regulation act, mandating risk-based regulation of artificial intelligence with stringent consumer protections and human oversight. Set for implementation in 2025, this legislation is poised to influence global tech firms and set a precedent for international AI regulations. The EU&amp;rsquo;s proactive approach to AI governance underscores the importance of ethical considerations and societal impacts in shaping AI development and deployment.&lt;/p>
 &lt;p>
 &lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-march-2024/law.jpg"
@@ -159,7 +294,7 @@ data-flex-basis="240px"
 >CNBC &lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>This Month in AI - February 2024</title><link>https://mind-benders.github.io/blog/p/tmai-february-2024/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-february-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-february-2024/Poster.png" alt="Featured image of post This Month in AI - February 2024" />&lt;p>Unveiling the latest technological marvels, February 2024 stands witness to groundbreaking advancements in artificial intelligence (AI). From Meta&amp;rsquo;s Code Llama to Google&amp;rsquo;s Gemini Pro, the month showcases a flurry of innovations propelling the AI landscape into uncharted territories. Let&lt;/p>
+&lt;/div></description></item><item><title>This Month in AI - February 2024</title><link>https://mind-benders.github.io/blog/p/tmai-february-2024/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-february-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-february-2024/Poster.png" alt="Featured image of post This Month in AI - February 2024" />&lt;p>Unveiling the latest technological marvels, February 2024 stands witness to groundbreaking advancements in artificial intelligence (AI). From Meta&amp;rsquo;s Code Llama to Google&amp;rsquo;s Gemini Pro, the month showcases a flurry of innovations propelling the AI landscape into uncharted territories.&lt;/p>
 &lt;h2 id="code-llama-unleashed-by-meta-1-">
 &lt;a href="#code-llama-unleashed-by-meta-1-" class="header-anchor">#&lt;/a>
 Code Llama Unleashed by Meta &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> :
