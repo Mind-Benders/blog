@@ -151,69 +151,117 @@ data-flex-basis="362px"
 >OpenAI Whistleblowers and SEC Complaints &lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>This Month in AI - June 2024</title><link>https://mind-benders.github.io/blog/p/tmai-june-2024/</link><pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-june-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/Poster.png" alt="Featured image of post This Month in AI - June 2024" />&lt;h2 id="tech-innovations-and-investments-key-developments-in-june-2024">Tech Innovations and Investments: Key Developments in June 2024
+&lt;/div></description></item><item><title>This Month in AI - June 2024</title><link>https://mind-benders.github.io/blog/p/tmai-june-2024/</link><pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-june-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-june-2024/Poster.png" alt="Featured image of post This Month in AI - June 2024" />&lt;h2 id="tech-innovations-and-investments-key-developments-in-june-2024">Tech Innovations and Investments: Key Developments in June 2024
 &lt;/h2>&lt;h3 id="mistral-ai-unveils-codestral-a-cutting-edge-coding-model1">Mistral AI Unveils Codestral: A Cutting-Edge Coding Model&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
 &lt;/h3>&lt;p>Mistral AI has introduced Codestral, a generative AI model designed specifically for coding. Codestral is proficient in over 80 programming languages and features an impressive 32k context window, enhancing its performance in various benchmarks. This development signifies a substantial advancement in the realm of AI-driven coding assistance.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/mistral_ai.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/mistral_ai.png"
+width="302"
+height="167"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/mistral_ai_hu12057567673312349239.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-june-2024/mistral_ai_hu13131908993510158000.png 1024w"
 loading="lazy"
 alt="Mistral AI"
+class="gallery-image"
+data-flex-grow="180"
+data-flex-basis="434px"
 >
 &lt;/p>
 &lt;h3 id="china-launches-47-billion-semiconductor-fund-to-boost-tech-self-sufficiency-2">China Launches $47 Billion Semiconductor Fund to Boost Tech Self-Sufficiency &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>
 &lt;/h3>&lt;p>China has allocated $47.48 billion to its largest-ever chip fund, aiming to bolster domestic semiconductor production. This investment is a crucial move toward achieving technological self-sufficiency and enhancing competitiveness in sectors like AI. The fund represents a significant step in China&amp;rsquo;s strategic tech ambitions.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/China_ai.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/China_ai.png"
+width="295"
+height="166"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/China_ai_hu13012422753995468948.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-june-2024/China_ai_hu11140140518108688473.png 1024w"
 loading="lazy"
 alt="China Semiconductor Fund"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 >
 &lt;/p>
 &lt;h3 id="nvidia-surpasses-apple-in-market-value-reaching-301-trillion3">Nvidia Surpasses Apple in Market Value, Reaching $3.01 Trillion&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>
 &lt;/h3>&lt;p>Nvidia&amp;rsquo;s market capitalization has soared to $3.01 trillion, surpassing Apple and making it the world&amp;rsquo;s second most valuable company. This leap is driven by the surge in artificial intelligence technology, highlighting Nvidia&amp;rsquo;s pivotal role in the AI industry.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/nvidea.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/nvidea.png"
+width="664"
+height="374"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/nvidea_hu6078190149013790974.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-june-2024/nvidea_hu17811865178361348655.png 1024w"
 loading="lazy"
 alt="Nvidia"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 >
 &lt;/p>
 &lt;h3 id="apple-introduces-apple-intelligence-at-wwdc4">Apple Introduces &amp;lsquo;Apple Intelligence&amp;rsquo; at WWDC&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>
 &lt;/h3>&lt;p>Apple is set to reveal &amp;ldquo;Apple Intelligence,&amp;rdquo; a new AI solution featuring chatbot capabilities similar to ChatGPT, during WWDC on June 10. This AI will be integrated into upcoming updates for iOS, iPadOS, and macOS and is designed to operate offline. The initiative marks a collaboration with OpenAI and promises enhancements to Siri.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/apple.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/apple.png"
+width="259"
+height="194"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/apple_hu969187816533560451.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-june-2024/apple_hu12397447209227912985.png 1024w"
 loading="lazy"
 alt="Apple Intelligence"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 >
 &lt;/p>
 &lt;h3 id="stability-ai-launches-stable-audio-open-for-sound-generation5">Stability AI Launches Stable Audio Open for Sound Generation&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>
 &lt;/h3>&lt;p>Stability AI has released &amp;ldquo;Stable Audio Open,&amp;rdquo; an AI model that generates sound from text descriptions using royalty-free samples. This tool is intended for non-commercial use and opens new possibilities for creative audio projects.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/stability_ai.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/stability_ai.png"
+width="310"
+height="163"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/stability_ai_hu17247308527014626885.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-june-2024/stability_ai_hu16315347374937665990.png 1024w"
 loading="lazy"
 alt="Stability AI"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="456px"
 >
 &lt;/p>
 &lt;h3 id="microsoft-expands-ai-dominance-under-nadellas-leadership6">Microsoft Expands AI Dominance Under Nadella&amp;rsquo;s Leadership&lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>
 &lt;/h3>&lt;p>Under CEO Satya Nadella, Microsoft is aggressively expanding its AI capabilities by acquiring AI assets globally and developing proprietary technologies. This strategy includes investing in AI startups and recruiting top industry experts, positioning Microsoft as a formidable player in the AI landscape, potentially rivaling OpenAI.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/microsoft.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/microsoft.png"
+width="328"
+height="136"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/microsoft_hu16115659652682834021.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-june-2024/microsoft_hu850788080021453333.png 1024w"
 loading="lazy"
 alt="Microsoft"
+class="gallery-image"
+data-flex-grow="241"
+data-flex-basis="578px"
 >
 &lt;/p>
 &lt;h3 id="lumalabs-introduces-luma-dream-machine-for-video-synthesis7">Lumalabs Introduces Luma Dream Machine for Video Synthesis&lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>
 &lt;/h3>&lt;p>Lumalabs has launched the Luma Dream Machine, an AI model designed to create high-quality, realistic videos from text and images. Utilizing a transformer-based method optimized for video content, this tool represents a significant advancement in AI-driven video synthesis.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/dream_machine.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/dream_machine.png"
+width="310"
+height="163"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/dream_machine_hu13668237609109876058.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-june-2024/dream_machine_hu11623201061608328882.png 1024w"
 loading="lazy"
 alt="Lumalabs"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="456px"
 >
 &lt;/p>
 &lt;h3 id="enhancing-ai-character-claude-3s-training-for-ethical-interaction8">Enhancing AI Character: Claude 3&amp;rsquo;s Training for Ethical Interaction&lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>
 &lt;/h3>&lt;p>Anthropic explores &amp;ldquo;character training&amp;rdquo; in the Claude 3 model, emphasizing attributes like curiosity and open-mindedness while ensuring harm avoidance. This training strategy aims to align AI behavior with ethical norms, enhancing its interactive capabilities in a flexible and responsible manner.&lt;/p>
 &lt;p>
-&lt;img src="https://mind-benders.github.io/blog/blog/claude.png"
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/claude.png"
+width="300"
+height="168"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-june-2024/claude_hu1272749574936963304.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-june-2024/claude_hu1742851983010007902.png 1024w"
 loading="lazy"
 alt="Anthropic/Claude3"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="428px"
 >
 &lt;/p>
 &lt;h3 id="conclusion">Conclusion:
