@@ -1,4 +1,157 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/post/</link><description>Recent content in Posts on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - June 2024</title><link>https://mind-benders.github.io/blog/p/tmai-june-2024/</link><pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-june-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/Poster.png" alt="Featured image of post This Month in AI - June 2024" />&lt;h2 id="tech-innovations-and-investments-key-developments-in-june-2024">Tech Innovations and Investments: Key Developments in June 2024
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/post/</link><description>Recent content in Posts on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - July 2024</title><link>https://mind-benders.github.io/blog/p/tmai-july-2024/</link><pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-july-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-july-2024/poster.png" alt="Featured image of post This Month in AI - July 2024" />&lt;p>July 2024 was marked by remarkable advancements in AI technology, from Google&amp;rsquo;s powerful new AI model to breakthroughs in semiconductor technology. While these developments promise to reshape industries, they also raise important ethical and regulatory questions. This month&amp;rsquo;s highlights explore these trends in depth.&lt;/p>
+&lt;h1 id="july-2024-a-month-of-ai-innovation-and-ethical-considerations">July 2024: A Month of AI Innovation and Ethical Considerations
+&lt;/h1>&lt;h2 id="googles-new-ai-model---gemma-2-2b-1">Google’s New AI Model - Gemma 2 2B &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Google has unveiled Gemma 2 2B, a compact yet highly effective AI model that rivals much larger models in performance. With 2.6 billion parameters and training on a 2 trillion token dataset, Gemma 2 2B demonstrates superior conversational abilities and is optimized for various hardware platforms.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/gemma_2b.png"
+width="640"
+height="360"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/gemma_2b_hu7131607480753387881.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-july-2024/gemma_2b_hu10157076232774668415.png 1024w"
+loading="lazy"
+alt="Google Gemma 2 2B"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="mistrals-ai-model---mistral-large-2-2">Mistral’s AI Model - Mistral Large 2 &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Mistral AI has launched Mistral Large 2 (ML2), a model designed to compete with leading AI firms. Despite its smaller size, ML2 supports multiple languages and aims to reduce AI hallucinations, marking a significant step forward in AI development.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/mistral_large_2.png"
+width="1024"
+height="576"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/mistral_large_2_hu8351472853141813945.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-july-2024/mistral_large_2_hu2875104691111753646.png 1024w"
+loading="lazy"
+alt="Mistral Large 2"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="next-generation-semiconductor-technologies-3">Next Generation Semiconductor Technologies &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>A new breakthrough in semiconductor technology, Electrochemical Random Access Memory (ECRAM), could revolutionize AI efficiency. This development promises enhanced performance and lower power consumption, setting the stage for future AI advancements.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/ecram.png"
+width="800"
+height="530"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/ecram_hu17716815206014834937.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-july-2024/ecram_hu4372424081180445428.png 1024w"
+loading="lazy"
+alt="ECRAM"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="362px"
+>
+&lt;/p>
+&lt;h2 id="the-eus-landmark-ai-law-4">The EU&amp;rsquo;s Landmark AI Law &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>The European Union has introduced a groundbreaking AI regulation aimed at promoting innovation while safeguarding citizens&amp;rsquo; rights. Set to take effect in 2026, the law imposes stringent requirements on AI use, particularly in sensitive areas such as predictive policing.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/eu_ai_law.png"
+width="1920"
+height="1080"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/eu_ai_law_hu14907852479228643365.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-july-2024/eu_ai_law_hu9961568615745677119.png 1024w"
+loading="lazy"
+alt="EU AI Law"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="challenges-with-generative-ai-and-the-internet-5">Challenges with Generative AI and the Internet &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Generative AI models, including OpenAI&amp;rsquo;s GPT-4o, face significant challenges such as the risk of creating synthetic data feedback loops. This phenomenon could disrupt internet data quality and poses a major concern for AI&amp;rsquo;s future.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/generative_ai.png"
+width="800"
+height="530"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/generative_ai_hu11781950340620476032.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-july-2024/generative_ai_hu14988228521827453929.png 1024w"
+loading="lazy"
+alt="Generative AI"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="362px"
+>
+&lt;/p>
+&lt;h2 id="ai-driven-advancements-in-nuclear-power-6">AI-Driven Advancements in Nuclear Power &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>AI is playing a crucial role in reducing the time and cost associated with nuclear reactor design and licensing. This innovative approach could expedite the development of nuclear energy solutions by decades.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/nuclear_ai.png"
+width="800"
+height="530"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/nuclear_ai_hu6136934672608910134.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-july-2024/nuclear_ai_hu1063945929873848601.png 1024w"
+loading="lazy"
+alt="Nuclear Power AI"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="362px"
+>
+&lt;/p>
+&lt;h2 id="predicting-wildfires-with-ai-7">Predicting Wildfires with AI &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Researchers at USC have developed an AI-driven method to predict wildfire spread, combining satellite imagery with advanced AI algorithms. This new technique offers significant improvements in disaster management.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/wildfire_ai.png"
+width="800"
+height="414"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/wildfire_ai_hu259606303382346220.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-july-2024/wildfire_ai_hu4973145635788180424.png 1024w"
+loading="lazy"
+alt="Wildfire AI"
+class="gallery-image"
+data-flex-grow="193"
+data-flex-basis="463px"
+>
+&lt;/p>
+&lt;h2 id="openai-whistleblowers-and-sec-complaints-8">OpenAI Whistleblowers and SEC Complaints &lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Whistleblowers have urged the SEC to investigate OpenAI over potentially illegal nondisclosure agreements, raising concerns about the company&amp;rsquo;s transparency regarding AI risks.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/openai_whistleblowers.png"
+width="800"
+height="530"
+srcset="https://mind-benders.github.io/blog/blog/p/tmai-july-2024/openai_whistleblowers_hu11447625283775609287.png 480w, https://mind-benders.github.io/blog/blog/p/tmai-july-2024/openai_whistleblowers_hu4136786620236004270.png 1024w"
+loading="lazy"
+alt="OpenAI Whistleblowers"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="362px"
+>
+&lt;/p>
+&lt;h2 id="conclusion">Conclusion
+&lt;/h2>&lt;p>July 2024 has seen groundbreaking AI developments and significant ethical challenges. From Google&amp;rsquo;s Gemma 2 2B to the EU&amp;rsquo;s new AI law, these advancements will shape the future of AI. However, balancing innovation with ethical standards remains essential as AI continues to evolve.&lt;/p>
+&lt;h2 id="references">References
+&lt;/h2>&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://indianexpress.com/article/technology/artificial-intelligence/googles-new-small-ai-model-gemma-2-2b-surpasses-openais-gpt-3-5-9489169/" target="_blank" rel="noopener"
+>Google’s New AI Model - Gemma 2 2B&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://www.artificialintelligence-news.com/news/mistral-large-2-david-to-big-tech-goliaths/" target="_blank" rel="noopener"
+>Mistral’s AI Model - Mistral Large 2 &lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://techxplore.com/news/2024-08-gen-semiconductor-technology-high-efficiency.html" target="_blank" rel="noopener"
+>Next Generation Semiconductor Technologies &lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://techxplore.com/news/2024-08-world-eu-ai-law.html" target="_blank" rel="noopener"
+>The EU&amp;rsquo;s Landmark AI Law&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://techxplore.com/news/2024-07-mad-generative-ai-internet.html" target="_blank" rel="noopener"
+>Challenges with Generative AI and the Internet&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://techxplore.com/news/2024-07-key-quicker-nuclear-power-artificial.html" target="_blank" rel="noopener"
+>AI-Driven Advancements in Nuclear Power&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://techxplore.com/news/2024-07-scientists-ai-wildfire.html" target="_blank" rel="noopener"
+>Predicting Wildfires with AI &lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:8">
+&lt;p>&lt;a class="link" href="https://techxplore.com/news/2024-07-openai-whistleblowers-sec-company-disclosure.html" target="_blank" rel="noopener"
+>OpenAI Whistleblowers and SEC Complaints &lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>This Month in AI - June 2024</title><link>https://mind-benders.github.io/blog/p/tmai-june-2024/</link><pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-june-2024/</guid><description>&lt;img src="https://mind-benders.github.io/blog/Poster.png" alt="Featured image of post This Month in AI - June 2024" />&lt;h2 id="tech-innovations-and-investments-key-developments-in-june-2024">Tech Innovations and Investments: Key Developments in June 2024
 &lt;/h2>&lt;h3 id="mistral-ai-unveils-codestral-a-cutting-edge-coding-model1">Mistral AI Unveils Codestral: A Cutting-Edge Coding Model&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
 &lt;/h3>&lt;p>Mistral AI has introduced Codestral, a generative AI model designed specifically for coding. Codestral is proficient in over 80 programming languages and features an impressive 32k context window, enhancing its performance in various benchmarks. This development signifies a substantial advancement in the realm of AI-driven coding assistance.&lt;/p>
 &lt;p>
