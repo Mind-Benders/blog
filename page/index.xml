@@ -5,71 +5,71 @@
 &lt;/h2>&lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align:center">Sr. No.&lt;/th>
-&lt;th style="text-align:center">Name&lt;/th>
-&lt;th style="text-align:center">Position&lt;/th>
+&lt;th style="text-align: center">Sr. No.&lt;/th>
+&lt;th style="text-align: center">Name&lt;/th>
+&lt;th style="text-align: center">Position&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">1&lt;/td>
-&lt;td style="text-align:center">Kunal Agrawal&lt;/td>
-&lt;td style="text-align:center">President&lt;/td>
+&lt;td style="text-align: center">1&lt;/td>
+&lt;td style="text-align: center">Kunal Agrawal&lt;/td>
+&lt;td style="text-align: center">President&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">2&lt;/td>
-&lt;td style="text-align:center">Aman Tiwari&lt;/td>
-&lt;td style="text-align:center">Vice President&lt;/td>
+&lt;td style="text-align: center">2&lt;/td>
+&lt;td style="text-align: center">Aman Tiwari&lt;/td>
+&lt;td style="text-align: center">Vice President&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3&lt;/td>
-&lt;td style="text-align:center">Ganesh Utla&lt;/td>
-&lt;td style="text-align:center">Secretary&lt;/td>
+&lt;td style="text-align: center">3&lt;/td>
+&lt;td style="text-align: center">Ganesh Utla&lt;/td>
+&lt;td style="text-align: center">Secretary&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">4&lt;/td>
-&lt;td style="text-align:center">Deexith Madas&lt;/td>
-&lt;td style="text-align:center">Open-Source Head&lt;/td>
+&lt;td style="text-align: center">4&lt;/td>
+&lt;td style="text-align: center">Deexith Madas&lt;/td>
+&lt;td style="text-align: center">Open-Source Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">5&lt;/td>
-&lt;td style="text-align:center">Vaibhav Ashta&lt;/td>
-&lt;td style="text-align:center">Technical Head&lt;/td>
+&lt;td style="text-align: center">5&lt;/td>
+&lt;td style="text-align: center">Vaibhav Ashta&lt;/td>
+&lt;td style="text-align: center">Technical Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">6&lt;/td>
-&lt;td style="text-align:center">Keval Waghate&lt;/td>
-&lt;td style="text-align:center">Publication Head&lt;/td>
+&lt;td style="text-align: center">6&lt;/td>
+&lt;td style="text-align: center">Keval Waghate&lt;/td>
+&lt;td style="text-align: center">Publication Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7&lt;/td>
-&lt;td style="text-align:center">Abhir Iyer&lt;/td>
-&lt;td style="text-align:center">Social Media Head&lt;/td>
+&lt;td style="text-align: center">7&lt;/td>
+&lt;td style="text-align: center">Abhir Iyer&lt;/td>
+&lt;td style="text-align: center">Social Media Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">8&lt;/td>
-&lt;td style="text-align:center">Lavanya Bhat&lt;/td>
-&lt;td style="text-align:center">Marketing Head&lt;/td>
+&lt;td style="text-align: center">8&lt;/td>
+&lt;td style="text-align: center">Lavanya Bhat&lt;/td>
+&lt;td style="text-align: center">Marketing Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">9&lt;/td>
-&lt;td style="text-align:center">Vishal Gupta&lt;/td>
-&lt;td style="text-align:center">Event Manager&lt;/td>
+&lt;td style="text-align: center">9&lt;/td>
+&lt;td style="text-align: center">Vishal Gupta&lt;/td>
+&lt;td style="text-align: center">Event Manager&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">10&lt;/td>
-&lt;td style="text-align:center">Vrushali Sandam&lt;/td>
-&lt;td style="text-align:center">Jt. Technical Head&lt;/td>
+&lt;td style="text-align: center">10&lt;/td>
+&lt;td style="text-align: center">Vrushali Sandam&lt;/td>
+&lt;td style="text-align: center">Jt. Technical Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">11&lt;/td>
-&lt;td style="text-align:center">Ananta Pandey&lt;/td>
-&lt;td style="text-align:center">Jt. Publication Head&lt;/td>
+&lt;td style="text-align: center">11&lt;/td>
+&lt;td style="text-align: center">Ananta Pandey&lt;/td>
+&lt;td style="text-align: center">Jt. Publication Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">12&lt;/td>
-&lt;td style="text-align:center">Sakshi Maurya&lt;/td>
-&lt;td style="text-align:center">Jt. Marketing Head&lt;/td>
+&lt;td style="text-align: center">12&lt;/td>
+&lt;td style="text-align: center">Sakshi Maurya&lt;/td>
+&lt;td style="text-align: center">Jt. Marketing Head&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -78,71 +78,71 @@
 &lt;/h2>&lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align:center">Sr. No.&lt;/th>
-&lt;th style="text-align:center">Name&lt;/th>
-&lt;th style="text-align:center">Position&lt;/th>
+&lt;th style="text-align: center">Sr. No.&lt;/th>
+&lt;th style="text-align: center">Name&lt;/th>
+&lt;th style="text-align: center">Position&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">1&lt;/td>
-&lt;td style="text-align:center">Kunal Agrawal&lt;/td>
-&lt;td style="text-align:center">Founder &amp;amp; President&lt;/td>
+&lt;td style="text-align: center">1&lt;/td>
+&lt;td style="text-align: center">Kunal Agrawal&lt;/td>
+&lt;td style="text-align: center">Founder &amp;amp; President&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">2&lt;/td>
-&lt;td style="text-align:center">Aman Tiwari&lt;/td>
-&lt;td style="text-align:center">Vice President&lt;/td>
+&lt;td style="text-align: center">2&lt;/td>
+&lt;td style="text-align: center">Aman Tiwari&lt;/td>
+&lt;td style="text-align: center">Vice President&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3&lt;/td>
-&lt;td style="text-align:center">Ganesh Utla&lt;/td>
-&lt;td style="text-align:center">Secretary&lt;/td>
+&lt;td style="text-align: center">3&lt;/td>
+&lt;td style="text-align: center">Ganesh Utla&lt;/td>
+&lt;td style="text-align: center">Secretary&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">4&lt;/td>
-&lt;td style="text-align:center">Deexith Madas&lt;/td>
-&lt;td style="text-align:center">Open-Source Head&lt;/td>
+&lt;td style="text-align: center">4&lt;/td>
+&lt;td style="text-align: center">Deexith Madas&lt;/td>
+&lt;td style="text-align: center">Open-Source Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">5&lt;/td>
-&lt;td style="text-align:center">Vaibhav Ashta&lt;/td>
-&lt;td style="text-align:center">Technical Head&lt;/td>
+&lt;td style="text-align: center">5&lt;/td>
+&lt;td style="text-align: center">Vaibhav Ashta&lt;/td>
+&lt;td style="text-align: center">Technical Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">6&lt;/td>
-&lt;td style="text-align:center">Keval Waghate&lt;/td>
-&lt;td style="text-align:center">Publication Head&lt;/td>
+&lt;td style="text-align: center">6&lt;/td>
+&lt;td style="text-align: center">Keval Waghate&lt;/td>
+&lt;td style="text-align: center">Publication Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7&lt;/td>
-&lt;td style="text-align:center">Abhir Iyer&lt;/td>
-&lt;td style="text-align:center">Social Media Head&lt;/td>
+&lt;td style="text-align: center">7&lt;/td>
+&lt;td style="text-align: center">Abhir Iyer&lt;/td>
+&lt;td style="text-align: center">Social Media Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">8&lt;/td>
-&lt;td style="text-align:center">Lavanya Bhat&lt;/td>
-&lt;td style="text-align:center">Marketing Head&lt;/td>
+&lt;td style="text-align: center">8&lt;/td>
+&lt;td style="text-align: center">Lavanya Bhat&lt;/td>
+&lt;td style="text-align: center">Marketing Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">9&lt;/td>
-&lt;td style="text-align:center">Vishal Gupta&lt;/td>
-&lt;td style="text-align:center">Event Manager&lt;/td>
+&lt;td style="text-align: center">9&lt;/td>
+&lt;td style="text-align: center">Vishal Gupta&lt;/td>
+&lt;td style="text-align: center">Event Manager&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">10&lt;/td>
-&lt;td style="text-align:center">Vrushali Sandam&lt;/td>
-&lt;td style="text-align:center">Jt. Technical Head&lt;/td>
+&lt;td style="text-align: center">10&lt;/td>
+&lt;td style="text-align: center">Vrushali Sandam&lt;/td>
+&lt;td style="text-align: center">Jt. Technical Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">11&lt;/td>
-&lt;td style="text-align:center">Ananta Pandey&lt;/td>
-&lt;td style="text-align:center">Jt. Publication Head&lt;/td>
+&lt;td style="text-align: center">11&lt;/td>
+&lt;td style="text-align: center">Ananta Pandey&lt;/td>
+&lt;td style="text-align: center">Jt. Publication Head&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">12&lt;/td>
-&lt;td style="text-align:center">Sakshi Maurya&lt;/td>
-&lt;td style="text-align:center">Jt. Marketing Head&lt;/td>
+&lt;td style="text-align: center">12&lt;/td>
+&lt;td style="text-align: center">Sakshi Maurya&lt;/td>
+&lt;td style="text-align: center">Jt. Marketing Head&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item><item><title>Search</title><link>https://mind-benders.github.io/blog/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/search/</guid><description/></item></channel></rss>
