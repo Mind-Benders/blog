@@ -1,7 +1,6 @@
 baseurl: https://mind-benders.github.io/blog/
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 7
 title: Mind Benders Club - Blog
 
 languages:
