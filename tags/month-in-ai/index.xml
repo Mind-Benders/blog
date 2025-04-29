@@ -1,4 +1,184 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Month in AI on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/tags/month-in-ai/</link><description>Recent content in Month in AI on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/tags/month-in-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - January 2025</title><link>https://mind-benders.github.io/blog/p/tmai-january-2025/</link><pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-january-2025/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-january-2025/poster.png" alt="Featured image of post This Month in AI - January 2025" />&lt;p>January 2025 saw several transformative developments in the field of AI, from DeepSeek’s remarkable chatbot performance to groundbreaking legislative actions addressing AI-generated content. Let’s dive into the highlights of the month that are shaping the AI landscape.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Month in AI on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/tags/month-in-ai/</link><description>Recent content in Month in AI on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/tags/month-in-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - March 2025</title><link>https://mind-benders.github.io/blog/p/tmai-march-2025/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-march-2025/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-march-2025/poster.png" alt="Featured image of post This Month in AI - March 2025" />&lt;p>March 2025 brought transformative announcements in AI technology, with companies like Google, Nvidia, and OpenAI revealing innovations that signal the next wave of AI development and deployment.&lt;/p>
+&lt;h1 id="march-2025-pushing-the-boundaries-of-ai-and-robotics">March 2025: Pushing the Boundaries of AI and Robotics
+&lt;/h1>&lt;h2 id="google-unveils-gemini-25-pro-and-gemini-robotics">Google Unveils Gemini 2.5 Pro and Gemini Robotics &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Google launched Gemini 2.5 Pro with enhanced reasoning abilities and introduced Gemini Robotics, focusing on AI-powered robots capable of physical manipulation and navigation, marking a bold move into embodied AI.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-march-2025/gemini_robotics.png"
+width="1089"
+height="668"
+srcset="https://mind-benders.github.io/blog/p/tmai-march-2025/gemini_robotics_hu_627602fd30070692.png 480w, https://mind-benders.github.io/blog/p/tmai-march-2025/gemini_robotics_hu_226050a7caf0b32b.png 1024w"
+loading="lazy"
+alt="Google Gemini Robotics"
+class="gallery-image"
+data-flex-grow="163"
+data-flex-basis="391px"
+>
+&lt;/p>
+&lt;h2 id="openai-launches-operator">OpenAI Launches &amp;lsquo;Operator&amp;rsquo; &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>OpenAI debuted &amp;ldquo;Operator,&amp;rdquo; an AI assistant capable of autonomously handling complex online tasks, from grocery shopping to appointment booking, marking a major step towards semi-autonomous AI agents.&lt;/p>
+&lt;h2 id="nvidia-showcases-blackwell-ultra-and-vera-rubin-chips">Nvidia Showcases Blackwell Ultra and Vera Rubin Chips &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>At GTC 2025, Nvidia unveiled its next-gen AI chips—Blackwell Ultra and Vera Rubin—along with &amp;ldquo;Blue,&amp;rdquo; a robot developed with Disney Research and DeepMind, driven by the Newton physics engine, pushing robotics simulations forward.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-march-2025/nvidia_gtc.png"
+width="1200"
+height="630"
+srcset="https://mind-benders.github.io/blog/p/tmai-march-2025/nvidia_gtc_hu_655b0ad976ebf649.png 480w, https://mind-benders.github.io/blog/p/tmai-march-2025/nvidia_gtc_hu_86028a5ebad4a662.png 1024w"
+loading="lazy"
+alt="Nvidia GTC 2025"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="457px"
+>
+&lt;/p>
+&lt;h2 id="chinas-manus-a-new-autonomous-ai-agent">China&amp;rsquo;s Manus: A New Autonomous AI Agent &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Chinese AI company Monica introduced Manus, an autonomous agent excelling at real-world tasks and setting new benchmarks for AI independence, showcasing China&amp;rsquo;s growing prominence in AI development.&lt;/p>
+&lt;h2 id="openais-50m-investment-in-nextgenai-consortium">OpenAI&amp;rsquo;s $50M Investment in NextGenAI Consortium &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>OpenAI invested $50M to establish the NextGenAI Consortium, collaborating with 15 top institutions to drive AI-powered scientific discovery and education innovation.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-march-2025/nextgenai_consortium.png"
+width="822"
+height="749"
+srcset="https://mind-benders.github.io/blog/p/tmai-march-2025/nextgenai_consortium_hu_c0ada2f794137df5.png 480w, https://mind-benders.github.io/blog/p/tmai-march-2025/nextgenai_consortium_hu_c5f39647bf90c29.png 1024w"
+loading="lazy"
+alt="NextGenAI Consortium"
+class="gallery-image"
+data-flex-grow="109"
+data-flex-basis="263px"
+>
+&lt;/p>
+&lt;h2 id="morgan-stanleys-bullish-ai-outlook">Morgan Stanley&amp;rsquo;s Bullish AI Outlook &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Morgan Stanley reinforced confidence in AI&amp;rsquo;s growth, dismissing rumors of a slowdown and highlighting persistent high demand for AI chips, backed by leaders like Sam Altman and Sundar Pichai.&lt;/p>
+&lt;h2 id="bbc-news-establishes-ai-department">BBC News Establishes AI Department &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>BBC News launched a dedicated AI division focused on personalizing news content for younger audiences, demonstrating the media industry&amp;rsquo;s shift towards AI-enhanced journalism.&lt;/p>
+&lt;h2 id="world-economic-forums-global-roadmap-for-digital-safety">World Economic Forum&amp;rsquo;s Global Roadmap for Digital Safety &lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>The World Economic Forum unveiled a global strategy for tackling online harms like misinformation and cyberbullying, promoting a safer and more resilient digital ecosystem worldwide.&lt;/p>
+&lt;h2 id="conclusion">Conclusion
+&lt;/h2>&lt;p>March 2025 reinforced the global momentum toward integrating AI into physical spaces, daily tasks, and digital ecosystems. These developments foreshadow a future of closer human-AI collaboration, balanced by a call for safety and ethical frameworks.&lt;/p>
+&lt;h2 id="references">References
+&lt;/h2>&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://blog.google/technology/ai/google-ai-updates-march-2025/" target="_blank" rel="noopener"
+>Google Gemini 2.5 Pro and Robotics&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener"
+>OpenAI Operator Launch&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://apnews.com/article/457e9260aa2a34c1bbcc07c98b7a0555" target="_blank" rel="noopener"
+>Nvidia GTC 2025 Highlights&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://www.crescendo.ai/news/manus-china-autonomous-ai-agent" target="_blank" rel="noopener"
+>Manus: China&amp;rsquo;s Autonomous AI&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://www.artificialintelligence-news.com/2025/04/25/openai-invests-50m-nextgenai-consortium" target="_blank" rel="noopener"
+>OpenAI&amp;rsquo;s NextGenAI Consortium&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://www.axios.com/2025/04/20/morgan-stanley-ai-investment-outlook" target="_blank" rel="noopener"
+>Morgan Stanley AI Investment Outlook&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://www.theguardian.com/media/2025/apr/21/bbc-news-launches-ai-department" target="_blank" rel="noopener"
+>BBC News Launches AI Department&lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:8">
+&lt;p>&lt;a class="link" href="https://www.weforum.org/press/2025/04/wef-launches-global-digital-safety-roadmap" target="_blank" rel="noopener"
+>World Economic Forum Digital Safety Roadmap&lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>This Month in AI - February 2025</title><link>https://mind-benders.github.io/blog/p/tmai-february-2025/</link><pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-february-2025/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-february-2025/poster.png" alt="Featured image of post This Month in AI - February 2025" />&lt;p>February 2025 captured major AI breakthroughs and strategic industry moves — from South Korea’s national AI infrastructure drive to cost-effective AI models challenging Nvidia’s dominance. Here&amp;rsquo;s a detailed look at the month&amp;rsquo;s major stories.&lt;/p>
+&lt;h1 id="february-2025-accelerating-global-ai-competition">February 2025: Accelerating Global AI Competition
+&lt;/h1>&lt;h2 id="south-koreas-ai-gpu-plan">South Korea’s AI GPU Plan &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>South Korea announced plans to acquire 10,000 high-performance GPUs by the end of 2025 to strengthen its AI infrastructure. This initiative supports the country&amp;rsquo;s push to stay competitive in the global AI race.&lt;/p>
+&lt;h2 id="deepseek-challenges-nvidias-dominance">DeepSeek Challenges Nvidia&amp;rsquo;s Dominance &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>DeepSeek’s DeepSeek-R1 model, built on lower-end hardware, questioned the need for expensive AI infrastructure. This shift hints at a democratization of AI development and growing competition in the AI market.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-february-2025/deepseek_ai.png"
+width="1480"
+height="833"
+srcset="https://mind-benders.github.io/blog/p/tmai-february-2025/deepseek_ai_hu_bb1e3c29f91460a6.png 480w, https://mind-benders.github.io/blog/p/tmai-february-2025/deepseek_ai_hu_bd951802170e9b04.png 1024w"
+loading="lazy"
+alt="DeepSeek AI"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="elon-musks-97-billion-openai-offer">Elon Musk’s $97 Billion OpenAI Offer &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Elon Musk proposed a $97.4 billion acquisition of OpenAI but threatened to withdraw the offer if the company retains its nonprofit status. Sam Altman and OpenAI firmly rejected Musk’s move.&lt;/p>
+&lt;h2 id="scientists-develop-superhuman-robotic-vision-system">Scientists Develop &amp;lsquo;Superhuman&amp;rsquo; Robotic Vision System &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Researchers at the University of Pennsylvania unveiled &amp;ldquo;PanoRadar,&amp;rdquo; a robotic vision system using spinning radio waves and AI to help robots navigate extreme environments like smoke and heavy rain.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-february-2025/robotic_vision.png"
+width="1200"
+height="675"
+srcset="https://mind-benders.github.io/blog/p/tmai-february-2025/robotic_vision_hu_cba915b6e630a174.png 480w, https://mind-benders.github.io/blog/p/tmai-february-2025/robotic_vision_hu_eabf086479d74b5a.png 1024w"
+loading="lazy"
+alt="Robotic Vision"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="nvidias-strong-earnings-amid-market-caution">Nvidia&amp;rsquo;s Strong Earnings Amid Market Caution &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Nvidia posted a 78% surge in quarterly revenue, driven by AI chip demand. However, concerns about cheaper AI alternatives and tech investment slowdowns kept market sentiment cautious.&lt;/p>
+&lt;h2 id="life-after-vmware-search-for-alternatives">Life After VMware: Search for Alternatives &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Following Broadcom’s acquisition of VMware, enterprises are exploring alternatives like Nutanix, Microsoft Hyper-V, and Azure Stack HCI to future-proof IT strategies and avoid vendor lock-in.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-february-2025/vmware_alternatives.png"
+width="959"
+height="638"
+srcset="https://mind-benders.github.io/blog/p/tmai-february-2025/vmware_alternatives_hu_2ae47e3394d63059.png 480w, https://mind-benders.github.io/blog/p/tmai-february-2025/vmware_alternatives_hu_1d50914b250fa9cd.png 1024w"
+loading="lazy"
+alt="VMware Alternatives"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>
+&lt;/p>
+&lt;h2 id="google-to-use-ai-for-age-verification">Google to Use AI for Age Verification &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Google began testing AI models to estimate users’ ages for enhanced safety measures on platforms like YouTube, reflecting growing pressure for stronger child protection online.&lt;/p>
+&lt;h2 id="conclusion">Conclusion
+&lt;/h2>&lt;p>February 2025 highlighted the fast-paced evolution of the AI industry, democratization trends, and strategic repositioning across global tech landscapes. As competition heats up, innovation and regulation will continue shaping the digital world.&lt;/p>
+&lt;h2 id="references">References
+&lt;/h2>&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://www.reuters.com/technology/artificial-intelligence/south-korea-aims-secure-10000-gpus-national-ai-computing-centre-2025-02-17/" target="_blank" rel="noopener"
+>South Korea’s AI GPU Plan&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://www.cnbc.com/2025/02/26/how-the-first-nvidia-earnings-day-after-deepseek-will-be-different.html" target="_blank" rel="noopener"
+>DeepSeek vs Nvidia&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://www.foxbusiness.com/technology/elon-musk-says-hell-drop-97b-openai-purchase-offer-chatgpt-maker-stays-nonprofit" target="_blank" rel="noopener"
+>Elon Musk OpenAI Offer&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://www.weforum.org/stories/2025/02/robots-evs-gpus-technology-news-february-2025/" target="_blank" rel="noopener"
+>Superhuman Robotic Vision&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://www.reuters.com/technology/crucial-nvidia-results-set-course-faltering-magnificent-seven-2025-02-26/" target="_blank" rel="noopener"
+>Nvidia Earnings&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://www.forbes.com/sites/stevemcdowell/2025/02/06/life-after-vmware-which-alternative-is-right-for-you/?ss=digitaltransformation" target="_blank" rel="noopener"
+>Life After VMware&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://www.cnbc.com/2025/02/12/google-to-test-using-ai-to-determine-users-ages.html" target="_blank" rel="noopener"
+>Google AI Age Verification&lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>This Month in AI - January 2025</title><link>https://mind-benders.github.io/blog/p/tmai-january-2025/</link><pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-january-2025/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-january-2025/poster.png" alt="Featured image of post This Month in AI - January 2025" />&lt;p>January 2025 saw several transformative developments in the field of AI, from DeepSeek’s remarkable chatbot performance to groundbreaking legislative actions addressing AI-generated content. Let’s dive into the highlights of the month that are shaping the AI landscape.&lt;/p>
 &lt;h1 id="january-2025-ai-innovation-meets-challenges">January 2025: AI Innovation Meets Challenges
 &lt;/h1>&lt;h2 id="deepseeks-ai-assistant-surpasses-chatgpt">DeepSeek&amp;rsquo;s AI Assistant Surpasses ChatGPT &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
 &lt;/h2>&lt;p>DeepSeek&amp;rsquo;s V3-powered AI Assistant gained significant traction, surpassing ChatGPT as the highest-rated free app on the iOS App Store in the United States. This chatbot, available on iOS and Android, excels in complex queries, logic problems, and code generation while being computationally efficient. This breakthrough positions DeepSeek as a strong competitor to industry leaders like OpenAI and Google.&lt;/p>
