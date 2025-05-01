@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/post/</link><description>Recent content in Posts on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - March 2025</title><link>https://mind-benders.github.io/blog/p/tmai-march-2025/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-march-2025/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-march-2025/poster.png" alt="Featured image of post This Month in AI - March 2025" />&lt;p>March 2025 brought transformative announcements in AI technology, with companies like Google, Nvidia, and OpenAI revealing innovations that signal the next wave of AI development and deployment.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mind Benders Club - Blog</title><link>https://mind-benders.github.io/blog/post/</link><description>Recent content in Posts on Mind Benders Club - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mind-benders.github.io/blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in AI - April 2025</title><link>https://mind-benders.github.io/blog/p/tmai-april-2025/</link><pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-april-2025/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-april-2025/poster.png" alt="Featured image of post This Month in AI - April 2025" />&lt;p>April 2025 witnessed dynamic shifts across the tech and AI landscape — from major debates about AI-generated art to innovations in medical AI, brain implants, and augmented reality therapies. Here&amp;rsquo;s a deep dive into the highlights.&lt;/p>
+&lt;h1 id="april-2025-democratization-and-disruption-in-tech">April 2025: Democratization and Disruption in Tech
+&lt;/h1>&lt;h2 id="sam-altman-defends-ai-art">Sam Altman Defends AI Art &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>OpenAI CEO Sam Altman praised AI-generated art for democratizing creativity, acknowledging challenges for traditional artists but emphasizing new opportunities for broader participation in creative industries.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-april-2025/ai_art.png"
+width="630"
+height="430"
+srcset="https://mind-benders.github.io/blog/p/tmai-april-2025/ai_art_hu_b65d1080ef9c122e.png 480w, https://mind-benders.github.io/blog/p/tmai-april-2025/ai_art_hu_b1b2edf9625396cf.png 1024w"
+loading="lazy"
+alt="AI Art Debate"
+class="gallery-image"
+data-flex-grow="146"
+data-flex-basis="351px"
+>
+&lt;/p>
+&lt;h2 id="amazon-expands-smart-grocery-carts">Amazon Expands Smart Grocery Carts &lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Amazon began selling its Dash smart carts to third-party retailers. These carts use computer vision and sensors to track purchases in real time, extending cashier-less shopping technology beyond Amazon-owned stores.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-april-2025/amazon_carts.png"
+width="1480"
+height="833"
+srcset="https://mind-benders.github.io/blog/p/tmai-april-2025/amazon_carts_hu_a797b10479d945d6.png 480w, https://mind-benders.github.io/blog/p/tmai-april-2025/amazon_carts_hu_f79698ce2a803824.png 1024w"
+loading="lazy"
+alt="Amazon Smart Carts"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="virtual-therapy-for-teen-anxiety">Virtual Therapy for Teen Anxiety &lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>An augmented reality app developed by Cardiff Youth Service aims to reduce anxiety among teenagers. Early trials show improved social interaction and emotional well-being among users.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-april-2025/ar_therapy.png"
+width="800"
+height="449"
+srcset="https://mind-benders.github.io/blog/p/tmai-april-2025/ar_therapy_hu_8a1144760eb9993c.png 480w, https://mind-benders.github.io/blog/p/tmai-april-2025/ar_therapy_hu_89ee5f2769cab195.png 1024w"
+loading="lazy"
+alt="AR Teen Therapy"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="427px"
+>
+&lt;/p>
+&lt;h2 id="us-inches-closer-to-tiktok-ban">U.S. Inches Closer to TikTok Ban &lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>The U.S. House passed a bill that could ban TikTok if ByteDance doesn’t divest ownership within 270 days, citing national security concerns. The bill faces further scrutiny in the Senate.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-april-2025/tiktok_ban.png"
+width="900"
+height="506"
+srcset="https://mind-benders.github.io/blog/p/tmai-april-2025/tiktok_ban_hu_2fc8416cdfa4be28.png 480w, https://mind-benders.github.io/blog/p/tmai-april-2025/tiktok_ban_hu_9416488110025927.png 1024w"
+loading="lazy"
+alt="TikTok Ban"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="brain-implants-for-artificial-vision">Brain Implants for Artificial Vision &lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Companies like Neuralink and Cortigent are developing brain implants that bypass the eye to help blind individuals perceive basic visual cues, despite challenges around surgical risks and device longevity.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-april-2025/brain_implants.png"
+width="1600"
+height="900"
+srcset="https://mind-benders.github.io/blog/p/tmai-april-2025/brain_implants_hu_39c8fad69e61979f.png 480w, https://mind-benders.github.io/blog/p/tmai-april-2025/brain_implants_hu_c1b92facf5a30e.png 1024w"
+loading="lazy"
+alt="Brain Implants"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="ai-tackling-japans-labour-shortages">AI Tackling Japan’s Labour Shortages &lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Facing an aging population, Japan is deploying AI technologies in industries like food manufacturing and agriculture to mitigate labor shortages, enhancing efficiency while preserving human roles.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-april-2025/ai_japan.png"
+width="310"
+height="163"
+srcset="https://mind-benders.github.io/blog/p/tmai-april-2025/ai_japan_hu_7ebe5740404ba6cd.png 480w, https://mind-benders.github.io/blog/p/tmai-april-2025/ai_japan_hu_89860830332a169d.png 1024w"
+loading="lazy"
+alt="AI Labour Japan"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="456px"
+>
+&lt;/p>
+&lt;h2 id="smart-motorways-safety-concerns">Smart Motorways Safety Concerns &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>England’s smart motorways, designed to ease traffic congestion, face criticism over frequent technology failures that put stranded drivers at risk. New investments are planned to improve safety measures.&lt;/p>
+&lt;h2 id="google-and-bayer-partner-on-medical-ai">Google and Bayer Partner on Medical AI &lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>
+&lt;/h2>&lt;p>Google Cloud partnered with Bayer to launch an AI platform that assists radiologists by flagging potential issues in medical scans and summarizing patient histories, aiming to ease healthcare workloads.&lt;/p>
+&lt;p>
+&lt;img src="https://mind-benders.github.io/blog/p/tmai-april-2025/google_bayer.png"
+width="300"
+height="168"
+srcset="https://mind-benders.github.io/blog/p/tmai-april-2025/google_bayer_hu_c174d29ce6bf7769.png 480w, https://mind-benders.github.io/blog/p/tmai-april-2025/google_bayer_hu_38b4d84e6c2f23c5.png 1024w"
+loading="lazy"
+alt="Google Bayer AI"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="428px"
+>
+&lt;/p>
+&lt;h2 id="conclusion">Conclusion
+&lt;/h2>&lt;p>April 2025 reinforced the tech sector&amp;rsquo;s dual narrative: innovation surging ahead alongside debates about safety, ethics, and equitable access. As AI technologies become further entwined with society, the balance between progress and responsibility remains pivotal.&lt;/p>
+&lt;h2 id="references">References
+&lt;/h2>&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a class="link" href="https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-defends-ai-art-ghibli-backlash-podcast-interview-9930216/" target="_blank" rel="noopener"
+>Sam Altman Defends AI Art&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a class="link" href="https://www.cnbc.com/2024/04/17/amazon-starts-selling-smart-grocery-carts-to-other-retailers.html" target="_blank" rel="noopener"
+>Amazon Smart Grocery Carts&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a class="link" href="https://www.bbc.com/news/articles/c4g40wwn54eo" target="_blank" rel="noopener"
+>AR Therapy for Teen Anxiety&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a class="link" href="https://readwrite.com/us-inches-closer-to-a-tiktok-ban/" target="_blank" rel="noopener"
+>U.S. TikTok Ban Bill&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a class="link" href="https://www.wired.com/story/the-next-frontier-for-brain-implants-is-artificial-vision-neuralink-elon-musk/?utm_source=theaicitizen.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=this-week-s-top-ai-tech-news-and-trends" target="_blank" rel="noopener"
+>Brain Implants for Artificial Vision&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a class="link" href="https://www.bbc.com/news/business-68225115" target="_blank" rel="noopener"
+>AI Tackles Japan’s Labour Shortages&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a class="link" href="https://www.bbc.com/news/uk-68848418" target="_blank" rel="noopener"
+>Smart Motorways Safety Concerns&lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:8">
+&lt;p>&lt;a class="link" href="https://www.cnbc.com/2024/04/09/google-partners-with-bayer-on-new-ai-product-for-radiologists.html" target="_blank" rel="noopener"
+>Google Partners with Bayer on AI for Radiology&lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>This Month in AI - March 2025</title><link>https://mind-benders.github.io/blog/p/tmai-march-2025/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://mind-benders.github.io/blog/p/tmai-march-2025/</guid><description>&lt;img src="https://mind-benders.github.io/blog/p/tmai-march-2025/poster.png" alt="Featured image of post This Month in AI - March 2025" />&lt;p>March 2025 brought transformative announcements in AI technology, with companies like Google, Nvidia, and OpenAI revealing innovations that signal the next wave of AI development and deployment.&lt;/p>
 &lt;h1 id="march-2025-pushing-the-boundaries-of-ai-and-robotics">March 2025: Pushing the Boundaries of AI and Robotics
 &lt;/h1>&lt;h2 id="google-unveils-gemini-25-pro-and-gemini-robotics">Google Unveils Gemini 2.5 Pro and Gemini Robotics &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
 &lt;/h2>&lt;p>Google launched Gemini 2.5 Pro with enhanced reasoning abilities and introduced Gemini Robotics, focusing on AI-powered robots capable of physical manipulation and navigation, marking a bold move into embodied AI.&lt;/p>
