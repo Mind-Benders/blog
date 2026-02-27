@@ -48,10 +48,7 @@ params:
     sidebar:
         emoji: 
         subtitle: Mind Benders Blog for latest updates in AI/DS/ML Space.
-        avatar:
-            enabled: true
-            local: true
-            src: img/avatar.png
+        avatar: "img/avatar.png"
 
     article:
         math: false
